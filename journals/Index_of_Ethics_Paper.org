@@ -3,7 +3,7 @@
 ** First 10 Pages
 *** Philosophy and Mind [[mind]]
 ***
-**** ok
-***** ok
-** ok
+****
+*****
+**
 ** /
