@@ -1,7 +1,7 @@
 #+TITLE: Index of Ethics Paper
 
 ** First 10 Pages
-*** Philosophy and Mind [mind]
+*** Philosophy and Mind [[mind]]
 ***
 **** ok
 ***** ok
