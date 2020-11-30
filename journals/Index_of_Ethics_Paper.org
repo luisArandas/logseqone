@@ -9,7 +9,7 @@
 *** Mathematical creativity and the computational universe
 *** Metacognition and ethical judgement
 *** Modelling ethics and cognition
-** Embodied and Evolutionary Cognition (6 pages)
+** Embodied and evolutionary cognition (6 pages)
 *** History and state-of-art on this
 *** Embodied metacognition
 ** Tech Design and Creativity as Mirror of Moral Principles (36 pages)
