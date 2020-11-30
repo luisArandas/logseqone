@@ -12,7 +12,7 @@
 ** Embodied and evolutionary cognition (6 pages)
 *** History and state-of-art on this
 *** Embodied metacognition
-** Tech Design and Creativity as Mirror of Moral Principles (36 pages)
+** Tech design and creativity as mirror of moral principles (36 pages)
 *** Design 1/3
 *** Build 1/3
 *** Pilot Experiments 1/3
