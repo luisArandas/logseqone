@@ -9,6 +9,7 @@
 *** Mathematical Creativity and the Computational Universe
 ***
 ** Embodied and Evolutionary Cognition (6 pages)
+*** History and state-of-art on this
 ** Tech Design and Creativity as Mirror of Moral Principles (36 pages)
 *** Design 1/3
 *** Build 1/3
