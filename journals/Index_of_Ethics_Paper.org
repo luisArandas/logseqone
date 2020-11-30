@@ -6,9 +6,10 @@
 **** ok
 ***** ok
 ** ok
-** DONE
+** DOING 
 :PROPERTIES:
 :todo: 1606767895709
 :done: 1606767896932
+:doing: 1606767905677
 :END:
 **
