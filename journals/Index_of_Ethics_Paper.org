@@ -6,7 +6,9 @@
 **** ok
 ***** ok
 ** ok
-** TODO 
+** DONE
 :PROPERTIES:
 :todo: 1606767895709
+:done: 1606767896932
 :END:
+**
