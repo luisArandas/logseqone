@@ -12,10 +12,11 @@
 *** Mathematical creativity(or application) and the computational universe [[5.0]]
 *** Metacognition and ethical judgement
 *** Modelling ethics and cognition
+*** Embodied and evolutionary cognition (6 pages)
 ** Theory of ecosistemic creativity and behavior + ethical foundations
 *** think about taxonomic implications
 **
-*** History and state-of-art on this
+***
 *** Embodied metacognition
 ** Tech design and creativity as mirror of moral principles (36 pages) -> practical applications of last chapter
 *** Design 1/3
