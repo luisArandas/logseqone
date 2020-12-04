@@ -10,7 +10,7 @@
 *** (think about something is missing!)
 *** *overall so what, how does this influence scientists in the practice*
 ** History on Ethics and Cognition (6 pages)
-*** *Mathematical creativity(or application) and the computational universe [[5.0]]*
+*** *Mathematical creativity(or application) and the computational universe [[file:../pages/5.0.org][5.0]] *
 *** Metacognition and ethical judgement
 *** Modelling ethics and cognition
 *** Embodied and evolutionary cognition (6 pages)
