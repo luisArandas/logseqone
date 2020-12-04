@@ -18,7 +18,7 @@
 ** Theory of ecosistemic creativity and behavior + ethical foundations
 *** think about taxonomic implications
 ** Tech design and CS thinking? creativity as mirror of moral principles (36 pages) -> practical applications of last chapter
-*** *research ethics*
+*** *Research Ethics*
 *** Design 1/3
 *** Build 1/3
 *** Pilot Experiments 1/3
