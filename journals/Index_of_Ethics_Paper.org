@@ -13,11 +13,12 @@
 *** Metacognition and ethical judgement
 *** Modelling ethics and cognition
 *** Embodied and evolutionary cognition (6 pages)
+**** History and state-of-art on this
 ** Theory of ecosistemic creativity and behavior + ethical foundations
 *** think about taxonomic implications
 **
 ***
-*** Embodied metacognition
+***
 ** Tech design and creativity as mirror of moral principles (36 pages) -> practical applications of last chapter
 *** Design 1/3
 *** Build 1/3
