@@ -1,6 +1,7 @@
 #+TITLE: Index of Ethics Paper
 
-** Introduction — Theory of ecosystemic creativity and behavior + ethical foundations. Almost all of Computational Creativity looks at models of individual creativity. BUT humans + computers together do much more than that!
+** Introduction — Theory of ecosystemic creativity — ethical foundations. Almost all of Computational Creativity looks at models of individual creativity. BUT humans + computers together do much more than that!
+***
 ** Philosophy and Ethics — Intersection with Computer Science Practice (12 Pages) [[file:../pages/main_references.org][main references]]
 *** Western philosophy and ethics definition (as basis for the paper) [[file:../pages/1.0.org][1.0]]
 **** [#A] what happened based on them (references) go get ethics clear
