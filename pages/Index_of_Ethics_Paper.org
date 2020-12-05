@@ -1,34 +1,24 @@
 #+TITLE: Index of Ethics Paper
 
-** Introduction — Theory of ecosystemic creativity — ethical foundations. Almost all of ‘Computational Creativity’ looks at models of individual creativity. BUT humans + computers together do much more than that!
-*** TOCHI — /humans interacting with computers/
-*** BOOK "Creativity and Ethics" — maybe creativity is a distraction, or maybe Bergson’s definition is just confusing for people
-*** Create the setting in which people can understand what we’re talking
-*** What is the research question: is there as ethical use of computer technology, and if so, what is it?  How would we get intuitions about that?
-I'd like to discuss HCCC starting from "human co-creativity using
-computers", only introducing AI once we have a grasp of computer
-mediated communication and collective intelligence. A lot of
-Computational Creativity research misses this “realist” perspective on
-co-creativity, and instead focuses on models of (individual)
-creativity. I'd argue that HCCC ethics should be tied to the realist
-(social) perspective.
-** Philosophy and Ethics — Intersection with Computer Science Practice (12 Pages) [[file:../pages/main_references.org][main references]]
+* Introduction — Theory of ecosystemic creativity — ethical foundations.
+** [[file:../premise.org][Premises]] (/Human computer interaction is much a bigger deal than we might have thought./)
+** [[file:../scope.org][Scope]] (TOCHI — /humans interacting with computers; Our RQ: What are good ethics for humans interacting with computers?/)
+** [[file:../background.org][Background]] (/Bring people up to speed with what we need to think about HCCC./)
+** [[file:../approach.org][Approach]] (/We will survey philosophy and its applications in CS./)
+* Philosophy and Ethics — Intersected with Computer Science Practice [[file:../pages/main_references.org][main references]]
 *** Western philosophy and ethics definition (as basis for the paper) [[file:../pages/1.0.org][1.0]]
 **** [#A] what happened based on them (references) go get ethics clear
 **** lessons for practice in computer science and specially HCI (add to all of them add 1.1) - "this is what happened and so what?"
 *** Relating western to eastern and what they got right [[file:../pages/2.0.org][2.0]]
 *** Phenomenology and being [[file:../pages/3.0.org][3.0]]
 *** Evolution regarding all of these [[file:../pages/4.0.org][4.0]]
-*** (think about something is missing!)
-*** *overall so what, how does this influence scientists in the practice*
 *** History on Ethics and Cognition (6 pages)
-*** *Mathematical creativity (or application) and the computational universe [[file:../pages/5.0.org][5.0]]
-*** Metacognition and ethical judgement
-*** Modelling ethics and cognition
 *** Embodied and evolutionary cognition (6 pages)
 **** History and state-of-art on this
-**** Embodied metacognition
-*** think about taxonomic implications
+**** Embodied metacognitions
+* Examples
+** [[file:../mathematical_creativity.org][Mathematical creativity]] (or application) and the computational universe [[file:../pages/5.0.org][5.0]]
+* What’s missing?  What can this survey help with?
 ** What can I do about that? — Tech design and CS thinking: creativity as mirror of moral principles (36 pages) -> practical applications of last chapter
 *** *Research Ethics*
 *** Design 1/3
@@ -36,3 +26,6 @@ creativity. I'd argue that HCCC ethics should be tied to the realist
 **** interface and establishing relationships
 **** how do I relate to knowledge and with the to the whole body of historical philosophy - and maybe AI and tech systems
 *** Pilot Experiments 1/3
+*** (think about something is missing!)
+*** Metacognition and ethical judgement
+*** Modelling ethics and cognition
