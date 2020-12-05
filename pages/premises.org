@@ -1,0 +1,13 @@
+#+title: Premises
+
+* We’ve entered into a new era, and we need to understand what’s going on.
+* Although part of this is the legacy of the industrial revolution, computers have played a significant role in the growth of knowledge
+* In a certain sense the CS field is playing “catch-up” with CMC: we invent new paradigms for interaction (e.g., Wikipedia, machine learning)
+* However, we don’t yet have a robust way to /think/ about human computer interaction at this broad scale
+* We try to wrap our minds around “Human-Computer Co-Creativity” by looking at CMC, HCI, and CI.
+Let’s work our way up to discussing HCCC by starting with “human
+co-creativity using computers”, and introduce AI once we have a grasp
+of how computer mediated communication and collective intelligence
+works.
+
+

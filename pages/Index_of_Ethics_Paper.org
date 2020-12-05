@@ -1,10 +1,6 @@
 #+TITLE: Index of Ethics Paper
 
-* Introduction — Theory of ecosystemic creativity — ethical foundations.
-** [[file:../premises.org][Premises]] — /‘Human-computer interaction’ is a bigger deal than we might think at first glance!.../
-** [[file:../scope.org][Scope]] — TOCHI — /covers humans interacting with computers; Our RQ: WHAT ARE ETHICS FOR HCI+HCCC?/
-** [[file:../background.org][Background]] — /Bring people up to speed with what we need to think about “HCCC” the way we talk about it./
-** [[file:../approach.org][Approach]] — /We will survey philosophy and its applications in CS; then, we will describe possible next steps for research./
+* [[file:../introduction.org][Introduction]] — Theory of ecosystemic creativity — ethical foundations.
 * Philosophy and Ethics — Intersected with Computer Science Practice
 ** Section introduction: [[file:main_references.org][Main References]]
 ** Western philosophy and ethics definition (as basic for the paper) [[file:../pages/1.0.org][1.0]]

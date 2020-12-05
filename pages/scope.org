@@ -1,0 +1,20 @@
+#+title: Scope
+
+* TOCHI’s statement of purpose
+
+#+begin_quote
+ACM Transactions on Computer-Human Interaction (TOCHI) covers the
+software, hardware and human aspects of interaction with
+computers. Topics include hardware and software architectures;
+interactive techniques, metaphors, and evaluation; user interface
+design processes; and users and groups of users. Those within the
+artificial intelligence, object-oriented systems, information systems,
+graphics and software engineering communities, will benefit from the
+high quality research papers in TOCHI concerning information and ideas
+directly related to the construction of effective human-computer
+interfaces.
+#+end_quote
+
+* Our research question within this area:
+** Is there as ethical use of computer technology, and if so, what is it?  How would we get intuitions about that?
+** What is our orientation towards computers broadly put?

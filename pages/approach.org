@@ -1,0 +1,15 @@
+#+title: Approach
+
+* Main idea survey philosophical ideas that are relevant and look at how they are used in practice.
+- We want to look at what is HCCC, how does it work overall, how this influence scientists in the practice
+* An inspiring model: “Peer Production: A Form of Collective Intelligence” (Benkler et al.)
+#+begin_quote
+In the rest of this chapter, we describe the development of the
+academic literature on peer production and collective intelligence in
+three areas – organization, motivation, and quality. In each area, we
+introduce foundational work consisting primarily of earlier
+scholarship that sought to describe peer production and establish its
+legitimacy. Subsequently, we characterize work, usually more recent,
+that seeks to pursue new directions and to derive more nuanced
+analytical insights. — https://mako.cc/benkler_shaw_hill-peer_production_ci.pdf
+#+end_quote
