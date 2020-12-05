@@ -3,7 +3,8 @@
 * [[file:./premises.org][Premises]] — /‘Human-computer interaction’ is a bigger deal than we might think at first glance!.../
 * LATER [[file:./scope.org][Scope]]— TOCHI — /covers humans interacting with computers
 :PROPERTIES:
-:later: 1607173634957
+:later: 1607173640608
+:done: 1607173639362
 :END:
 ** Our RQ: WHAT ARE SUITABLE ETHICS FOR HCI+HCCC DESIGNERS?/
 * [[file:./background.org][Background]] — /Bring people up to speed with what we need to think about “HCCC” the broad way we talk about it./
