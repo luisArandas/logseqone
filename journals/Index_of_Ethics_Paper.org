@@ -1,7 +1,17 @@
 #+TITLE: Index of Ethics Paper
 
-** Introduction — Theory of ecosystemic creativity — ethical foundations. Almost all of Computational Creativity looks at models of individual creativity. BUT humans + computers together do much more than that!
-*** BOOK "Creativity and Ethics"
+** Introduction — Theory of ecosystemic creativity — ethical foundations. Almost all of ‘Computational Creativity’ looks at models of individual creativity. BUT humans + computers together do much more than that!
+*** TOCHI — /humans interacting with computers/
+*** BOOK "Creativity and Ethics" — maybe creativity is a distraction, or maybe Bergson’s definition is just confusing for people
+*** Create the setting in which people can understand what we’re talking
+*** What is the research question: is there as ethical use of computer technology, and if so, what is it?  How would we get intuitions about that?
+I'd like to discuss HCCC starting from "human co-creativity using
+computers", only introducing AI once we have a grasp of computer
+mediated communication and collective intelligence. A lot of
+Computational Creativity research misses this “realist” perspective on
+co-creativity, and instead focuses on models of (individual)
+creativity. I'd argue that HCCC ethics should be tied to the realist
+(social) perspective.
 ** Philosophy and Ethics — Intersection with Computer Science Practice (12 Pages) [[file:../pages/main_references.org][main references]]
 *** Western philosophy and ethics definition (as basis for the paper) [[file:../pages/1.0.org][1.0]]
 **** [#A] what happened based on them (references) go get ethics clear
@@ -11,8 +21,8 @@
 *** Evolution regarding all of these [[file:../pages/4.0.org][4.0]]
 *** (think about something is missing!)
 *** *overall so what, how does this influence scientists in the practice*
-** History on Ethics and Cognition (6 pages)
-*** *Mathematical creativity(or application) and the computational universe [[file:../pages/5.0.org][5.0]] *
+*** History on Ethics and Cognition (6 pages)
+*** *Mathematical creativity (or application) and the computational universe [[file:../pages/5.0.org][5.0]]
 *** Metacognition and ethical judgement
 *** Modelling ethics and cognition
 *** Embodied and evolutionary cognition (6 pages)
