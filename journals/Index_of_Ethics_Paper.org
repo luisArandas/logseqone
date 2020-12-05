@@ -1,6 +1,6 @@
 #+TITLE: Index of Ethics Paper
 
-**
+** Introduction
 ** Philosophy and Ethics — Intersection with Computer Science Practice (12 Pages) [[file:../pages/main_references.org][main references]]
 ** Philosophy and Ethics — Intersection with Computer Science Practice (12 Pages) [[file:../pages/main_references.org][main references]]
 *** Western philosophy and ethics definition (as basis for the paper) [[file:../pages/1.0.org][1.0]]
