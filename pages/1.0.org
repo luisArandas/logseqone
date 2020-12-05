@@ -1,10 +1,13 @@
 #+TITLE: 1.0
 
-** Current work on all of this
-*** Aristotelian vs Platonic
-*** Kant and the categorical imperative
-*** David Hume on the problem of induction
-*** Maybe talk about the authors that break down cognitivism and agree or not - dualists, functionalists, materialists etc
-*** All of this connects to philosophy of mind. Maybe necessary?
-*** go deep maybe into pre-aristotle
-** Think about taxonomic implication
+* Section introduction: reiterate our objectives
+** [#A] what happened based on them (references) to get ethics clear
+** Lessons for practice in computer science and specially HCI (add to all of them add 1.1) - "this is what happened and so what?"
+* Current work on all of this
+** Aristotelian vs Platonic
+** Kant and the categorical imperative
+** David Hume on the problem of induction
+** Maybe talk about the authors that break down cognitivism and agree or not - dualists, functionalists, materialists etc
+** All of this connects to philosophy of mind. Maybe necessary?
+** go deep maybe into pre-aristotle
+* Think about taxonomic implication
