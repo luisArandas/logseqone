@@ -1,6 +1,6 @@
 #+TITLE: Index of Ethics Paper
 
-** Introduction
+** Introduction — Theory of ecosystemic creativity and behavior + ethical foundations
 ** Philosophy and Ethics — Intersection with Computer Science Practice (12 Pages) [[file:../pages/main_references.org][main references]]
 *** Western philosophy and ethics definition (as basis for the paper) [[file:../pages/1.0.org][1.0]]
 **** [#A] what happened based on them (references) go get ethics clear
