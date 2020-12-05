@@ -17,7 +17,6 @@
 *** Embodied and evolutionary cognition (6 pages)
 **** History and state-of-art on this
 **** Embodied metacognition
-** Theory of ecosistemic creativity and behavior + ethical foundations
 *** think about taxonomic implications
 ** Tech design and CS thinking? creativity as mirror of moral principles (36 pages) -> practical applications of last chapter
 *** *Research Ethics*
