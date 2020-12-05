@@ -1,7 +1,7 @@
 #+title: Introduction
 
 * [[file:./premises.org][Premises]] — /‘Human-computer interaction’ is a bigger deal than we might think at first glance!.../
-* LATER [[file:./scope.org][Scope]]— TOCHI — /covers humans interacting with computers
+* [[file:./scope.org][Scope]]— TOCHI — /covers humans interacting with computers
 :PROPERTIES:
 :later: 1607173640608
 :done: 1607173639362
