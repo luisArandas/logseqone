@@ -1,6 +1,6 @@
 #+title: Introduction
 
-* [[file:../premises.org][Premises]] — /‘Human-computer interaction’ is a bigger deal than we might think at first glance!.../
-* [[file:../scope.org][Scope]] — TOCHI — /covers humans interacting with computers; Our RQ: WHAT ARE SUITABLE ETHICS FOR HCI+HCCC DESIGNERS?/
-* [[file:../background.org][Background]] — /Bring people up to speed with what we need to think about “HCCC” the broad way we talk about it./
-* [[file:../approach.org][Approach]] — /We will survey philosophy and its applications in CS; then, we will describe possible next steps for research./
+* [[file:./premises.org][Premises]] — /‘Human-computer interaction’ is a bigger deal than we might think at first glance!.../
+* [[file:./scope.org][Scope]]— TOCHI — /covers humans interacting with computers; Our RQ: WHAT ARE SUITABLE ETHICS FOR HCI+HCCC DESIGNERS?/
+* [[file:./background.org][Background]] — /Bring people up to speed with what we need to think about “HCCC” the broad way we talk about it./
+* [[file:./approach.org][Approach]] — /We will survey philosophy and its applications in CS; then, we will describe possible next steps for research./
