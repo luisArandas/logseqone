@@ -1,6 +1,6 @@
 #+TITLE: Index of Ethics Paper
 
-* [[file:introduction.org][Introduction]] — Theory of ecosystemic creativity — ethical foundations
+* [[file:introduction.org][Introduction]] — Ethics of HCCC
 * Philosophy and Ethics — Intersected with Computer Science Practice
 ** Section introduction: [[file:main_references.org][Main References]]
 ** Western philosophy and ethics definition (as basic for the paper) [[file:../pages/1.0.org][1.0]]
@@ -8,16 +8,12 @@
 ** Phenomenology and being [[file:../pages/3.0.org][3.0]]
 ** Embodied cognition, social intelligence, collective intelligence [[file:4_0.org][4.0]]
 ** Reprise: Evolution regarding all of these [[file:5.0.org][5.0]]
-* Case study
+* Case study (or studies)?
 ** [[file:mathematical_creativity.org][Mathematical creativity]] throughout time
-* Discussion: What’s missing? How can we build on the survey above to plan new directions of work?
+* Discussion: How can we build on the survey above to plan new directions of work?
 ** What can I practically engage with these issues as a computer science researcher?
-**** Tech design and CS thinking: creativity as mirror of ethical principles
-**** *Research Ethics*
-**** Design 1/3
-**** Build 1/3
-**** interface and establishing relationships
-**** how do I relate to knowledge and with the to the whole body of historical philosophy - and maybe AI and tech systems
-**** Pilot Experiments 1/3
-**** (think about something is missing!)
-
+** Some miscellaneous themes we could tackle
+*** Tech design and CS thinking: creativity as mirror of ethical principles
+*** *Research Ethics*
+*** interface and establishing relationships
+*** how do I relate to knowledge and with the to the whole body of historical philosophy - and maybe AI and tech systems
