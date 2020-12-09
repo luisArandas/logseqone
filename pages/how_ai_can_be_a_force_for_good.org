@@ -14,4 +14,5 @@ responsibility.
 #+BEGIN_QUOTE
 Humanity learned this lesson the hard way when it did not regulate the impact of the industrial revolution on labor forces, and also when it recognized too late the environmental impact of massive industrialization and global consumerism.
 #+END_QUOTE
+** I think it's worthwhile to think of these things as *not separate* from AI issues
 **
