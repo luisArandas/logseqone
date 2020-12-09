@@ -1,7 +1,9 @@
 #+TITLE: How AI can be a force for good
 
-** #+BEGIN_QUOTE:
+**
+#+BEGIN_QUOTE
 With distributed agency comes distributed responsibility. Existing ethical frameworks address individual, human responsibility, with the goal of allocating punishment or reward based on the actions and intentions of an individual. They were not developed to deal with distributed
 responsibility.
+#+END_QUOTE
 ** With distributed agency comes distributed responsibility. Existing ethical frameworks address individual, human responsibility, with the goal of allocating punishment or reward based on the actions and intentions of an individual. They were not developed to deal with distributed
 responsibility.
