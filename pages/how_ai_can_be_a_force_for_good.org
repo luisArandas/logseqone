@@ -16,3 +16,4 @@ Humanity learned this lesson the hard way when it did not regulate the impact of
 #+END_QUOTE
 ** I think it's worthwhile to think of these things as *not separate* from AI issues
 *** Supplementary info:
+https://science.sciencemag.org/content/suppl/2018/08/22/361.6404.751.DC1
