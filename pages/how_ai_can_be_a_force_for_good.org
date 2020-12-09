@@ -7,4 +7,4 @@ responsibility.
 #+END_QUOTE
 ** https://drive.google.com/drive/u/1/folders/13bwMQfn8RY67-znVdnC7WO6OdcpDtR83
 ** This seems like an important point: we'll need new (not necessarily "agential") ways to think about ethics.
-** We
+** It seems useful to apply this in somewhat more general terms about "intelligent systems" — or just "systems with emergent properties"; so, if distributed agents produce e.g., environmental degradation, that's not ethical, and the system as a whole "should" find ways to improve its behaviour.  This sort of thing is thought about in Elinor Ostrom's economics.
