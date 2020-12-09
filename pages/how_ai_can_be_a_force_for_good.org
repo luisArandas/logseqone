@@ -11,3 +11,7 @@ responsibility.
 ** A particular concern of Taddeo & Floridi here seems to be "autonomy" of AI, and "self-determination" of humans. But in the case of HCI/HCCC it's not totally clear that either of these criteria apply.  In HCCC it's much closer to anthropotechnics
 *** https://www.wired.com/beyond-the-beyond/2015/09/peter-sloterdijk-anthropotechnics/
 **
+#+BEGIN_QUOTE
+Humanity learned this lesson the hard way when it did not regulate the impact of the industrial revolution on labor forces, and also when it recognized too late the environmental impact of massive industrialization and global consumerism.
+#+END_QUOTE
+**
