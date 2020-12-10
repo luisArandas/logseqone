@@ -1,4 +1,4 @@
 #+TITLE: Case studies
 
 ** Assuming we hold on to this section, it allows us a deeper dive into some examples. Case studies would allow us to look at the concepts we've discussed in the previous sections in a real-world context. However, we’d want to be sure that these aren’t just “tacked on.” Possible examples could include “mathematical creativity”, “social machines”, or others.
-***
+*** Maybe robots?
