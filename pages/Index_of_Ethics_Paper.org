@@ -9,7 +9,7 @@
 ** Phenomenology and being [[file:../pages/3.0.org][3.0]]
 ** Embodied cognition, social intelligence, collective intelligence [[file:4_0.org][4.0]]
 ** Reprise: Evolution regarding all of these [[file:5.0.org][5.0]]
-* Case study (or studies)?
+* [[Case studies]]
 ** [[file:mathematical_creativity.org][Mathematical creativity]] throughout time
 * Discussion: How can we build on the survey above to plan new directions of work?
 ** What can I practically engage with these issues as a computer science researcher?
