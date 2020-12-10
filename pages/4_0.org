@@ -3,7 +3,5 @@
 It seems that philosophy has become physicalized in psychology
 (Helmholtz, Kant, Freud, Jung), leading up to contemporary cognitive
 science.
-* Metacognition and ethical judgement - (maybe connect to the title here, and bring cognitive psychology to the discussion (behaviour))
-* Modelling ethics and cognition
-* Predictive Processing and Active Inference (bring embodiment to the discussion here)
-* “Ethical AI”
+* Philosophy of Cog Sci and friends [[file:4_a.org][4.A]]
+* HCC Ethics of Cog Sci and friends [[file:4_b.org][4.B]]
