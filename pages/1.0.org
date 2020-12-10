@@ -1,14 +1,4 @@
 #+TITLE: 1.0
 
-* Section introduction: reiterate our objectives
-** [#A] what happened based on them (references) to get ethics clear
-** Lessons for practice in computer science and specially HCI (add to all of them add 1.1) - "this is what happened and so what?"
-* Current work on all of this [[1.1]]
-** Aristotelian vs Platonic
-** Kant and the categorical imperative
-** David Hume on the problem of induction
-** Maybe talk about the authors that break down cognitivism and agree or not - dualists, functionalists, materialists etc
-** All of this connects to philosophy of mind. Maybe necessary?
-** go deep maybe into pre-aristotle
-* Think about taxonomic implication [[1.2]]
-** Based on what's raised in 1.1, create a mindset framework for the rest of the paper, as this subsection was a small conclusion of this section and connect all of these x.2's throughout the whole paper
+* Western philosophy and ethics summary [[file:1_a.org][1.A]]
+* How do people talk about mainstream ethics in CS? [[file:1_b.org][1.B]]

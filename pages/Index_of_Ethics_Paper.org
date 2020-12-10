@@ -3,11 +3,11 @@
 * [[file:introduction.org][Introduction]] — Ethics of HCCC
 ** [[file:./background.org][Background]] — /Bring people up to speed with what we need to think about “HCCC” the broad way we talk about it./
 * Philosophy and Ethics — Intersected with Computer Science Practice
-** [[Survey introduction]]
+** [[file:survey_introduction.org][Survey introduction]]
 ** Western philosophy and ethics definition (as basic for the paper) [[file:../pages/1.0.org][1.0]]
 ** Relating western to nonwestern practices [[file:../pages/2.0.org][2.0]]
 ** Phenomenology and being [[file:../pages/3.0.org][3.0]]
 ** Embodied cognition, social intelligence, collective intelligence [[file:4_0.org][4.0]]
 ** Reprise: Evolution regarding all of these [[file:5.0.org][5.0]]
-* [[Case studies]]
-* [[Discussion]]: How can we build on the survey above to plan new directions of work?
+* [[Case studies]] — if wanted
+* [[Discussion]] How can we build on the survey above to plan new directions of work?

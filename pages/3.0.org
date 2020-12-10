@@ -1,7 +1,4 @@
 #+TITLE: 3.0
 
-** husserl and heidegger all the way - what is it to be alive. 
-(May not be necessary to go into this - and on next chapter computational neuroscience vs all these philosophical questions might be a problem.)
-** preontology - and going to what he breaks down
-** be careful to connect this - being and everything - with ethics - Wittgenstein (ethics and aesthetics are one and the same)
-
+* Phenomenology and related philosophies [[file:3_a.org][3.A]]
+* CS/ethics related to phenomenology [[file:3_b.org][3.B]]
