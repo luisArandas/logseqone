@@ -11,7 +11,6 @@
 ** Reprise: Evolution regarding all of these [[file:5.0.org][5.0]]
 * [[Case studies]]
 * [[Discussion]]: How can we build on the survey above to plan new directions of work?
-** What can I practically engage with these issues as a computer science researcher?
 ** Some miscellaneous themes we could tackle
 *** Tech design and CS thinking: creativity as mirror of ethical principles
 *** *Research Ethics*
