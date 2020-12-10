@@ -1,6 +1,7 @@
 #+TITLE: Index of Ethics Paper
 
 * [[file:introduction.org][Introduction]] — Ethics of HCCC
+**
 * Philosophy and Ethics — Intersected with Computer Science Practice
 ** Section introduction: [[file:main_references.org][Main References]]
 ** Western philosophy and ethics definition (as basic for the paper) [[file:../pages/1.0.org][1.0]]
