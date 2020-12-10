@@ -6,6 +6,6 @@ We want to establish the setting in which people can understand what we’re tal
 * Bergson’s definition of creativity might be confusing for people, but it’s pretty much the one we need to address our RQ.
 https://plato.stanford.edu/entries/bergson/#CreaEvol
 * Existing books about “creativity and ethics” don’t quite cut the mustard
-** TODO Say why these aren’t sufficient answers to our questions
+** DOING Say why these aren’t sufficient answers to our questions
 ** "Creativity and Ethics"
 ** "Technology and the virtues: A philosophical guide to a future worth wanting"
