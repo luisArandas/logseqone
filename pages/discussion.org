@@ -5,5 +5,5 @@
 ** How can I practically engage with these issues as a computer science researcher?
 Tech design and CS thinking: creativity as mirror of ethical principles
 Research Ethics
-interface and establishing relationships
-how do I relate to knowledge and with the to the whole body of historical philosophy - and maybe AI and tech systems
+Interfaces and establishing relationships between people and things?
+How do I relate to knowledge, and with/to the whole body of historical philosophy - and maybe AI and tech systems
