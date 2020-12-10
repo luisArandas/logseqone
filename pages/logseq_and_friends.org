@@ -2,4 +2,4 @@
 
 ** Logseq is part of a history of tool evolution that includes Roam Research, which has been massively capitalized recently
 ** Other relevant tools in the same space include Org Roam (that one is open source)
-**
+** Logseq itself is open source
