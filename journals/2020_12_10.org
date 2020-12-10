@@ -1,4 +1,4 @@
 #+TITLE: Dec 10th, 2020
 
-** Worked on [[file:../pages/Index_of_Ethics_Paper.org][Index of Ethics Paper]]
-***
+** Worked on [[file:../pages/Index_of_Ethics_Paper.org][Index of Ethics Paper]] :joe:
+*** Added narrative summaries to this and other pages
