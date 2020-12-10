@@ -4,4 +4,4 @@ It seems that philosophy has become physicalized in psychology
 (Helmholtz, Kant, Freud, Jung), leading up to contemporary cognitive
 science.
 * Philosophy of Cog Sci and friends [[file:4_a.org][4.A]]
-* HCC Ethics of Cog Sci and friends [[file:4_b.org][4.B]]
+* HCCC Ethics of Cog Sci and friends [[file:4_b.org][4.B]]
