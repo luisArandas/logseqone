@@ -3,7 +3,7 @@
 It seems that philosophy has become physicalized in psychology
 (Helmholtz, Kant, Freud, Jung), leading up to contemporary cognitive
 science.
-
+***
 * Metacognition and ethical judgement
 * Modelling ethics and cognition
 * Predictive Processing and Active Inference
