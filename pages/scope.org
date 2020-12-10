@@ -18,4 +18,4 @@ interfaces.
 * Our research question within this area:
 ** Is there an ethical use of computer technology, and if so, what is it?  How would we get intuitions about that?
 ** What is our orientation towards computers broadly put?
-** How can we
+** How can we bring a deeper foundation for the ethical use of artificial intelligence?
