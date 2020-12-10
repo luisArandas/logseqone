@@ -1,0 +1,3 @@
+#+title: 4.B
+
+* This seems to relate to the topics discussed in [[file:how_ai_can_be_a_force_for_good.org][How AI can be a force for good]]
