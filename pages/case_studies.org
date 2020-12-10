@@ -4,4 +4,4 @@
 *** Maybe robots?
 *** [[file:mathematical_creativity.org][Mathematical creativity]] throughout time
 *** Social machines
-*** *Logseq itself and its friends!* — This could be a good one because it relates to the primary tool that we're using for writing this paper
+*** [[Logseq and friends]] — This could be a good one because it relates to the primary tool that we're using for writing this paper
