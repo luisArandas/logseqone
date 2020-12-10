@@ -5,5 +5,5 @@ It seems that philosophy has become physicalized in psychology
 science.
 * Metacognition and ethical judgement - (maybe connect to the title here, and bring cognitive psychology to the discussion (behaviour))
 * Modelling ethics and cognition
-* Predictive Processing and Active Inference
+* Predictive Processing and Active Inference (bring embodiment to the discussion here)
 * “Ethical AI”
