@@ -3,7 +3,7 @@
 * [[file:introduction.org][Introduction]] — Ethics of HCCC
 ** Background
 * Philosophy and Ethics — Intersected with Computer Science Practice
-** [[Survey introduction]] [[file:main_references.org][Main References]]
+** [[Survey introduction]]
 ** Western philosophy and ethics definition (as basic for the paper) [[file:../pages/1.0.org][1.0]]
 ** Relating western to nonwestern practices [[file:../pages/2.0.org][2.0]]
 ** Phenomenology and being [[file:../pages/3.0.org][3.0]]
