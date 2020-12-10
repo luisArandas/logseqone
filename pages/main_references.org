@@ -1,6 +1,6 @@
 #+TITLE: Main References
 
 * Who else has attempted anything similar or related to this in the past?
-* - [[https://en.wikipedia.org/wiki/Bernard_Stiegler#Books_in_English][Bernard Stiegler]] — philosophy of technics and other works
-- [[https://en.wikipedia.org/wiki/Peter_Sloterdijk#Works_in_English_translation][Peter Sloterdijk]] — philosophy of the human environment
+* [[https://en.wikipedia.org/wiki/Bernard_Stiegler#Books_in_English][Bernard Stiegler]] — philosophy of technics and other works
+* - [[https://en.wikipedia.org/wiki/Peter_Sloterdijk#Works_in_English_translation][Peter Sloterdijk]] — philosophy of the human environment
 - James Lovelock — /Novacene: The coming age of hyperintelligence/
