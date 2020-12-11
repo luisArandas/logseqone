@@ -11,4 +11,4 @@
 ** Reprise: Evolution regarding all of these [[file:5.0.org][5.0]]
 * [[file:case_studies.org][Case studies]] — if wanted
 * [[file:discussion.org][Discussion]] How can we build on the survey above to plan new directions of work?
-**
+** [[file:./contents.org][Contents]]
