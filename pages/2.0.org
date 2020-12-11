@@ -1,4 +1,4 @@
 #+TITLE: 2.0
 
 * Survey of (relevant) non-western philosophies and ethics [[file:2_a.org][2.A]]
-* Survey of related non-western thought (e.g., decolonial approaches to AI) [[file:2_b.org][2.B]]
+* Survey of related non-western thought (e.g., *decolonial approaches* to AI) [[file:2_b.org][2.B]]
