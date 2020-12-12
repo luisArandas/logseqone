@@ -5,6 +5,7 @@
 ** Some reference points from philosophy are “Creative evolution” from Bergson, “anthropotechnics” from Sloterdijk. The notion of “chaîne opératoire” from André Leroi-Gourhan et al. puts similar notions in an anthropology context. Various histories of the evolution of intelligence put them in an historical context (sociality & tools being key focal points). “Computational Social Creativity” is one sub-field of computing research that is apropos, because it considers creativity spread across a social field. We may also want to frame the inquiry with reference to some other fields and how they think about ethics (e.g., medicine, physics, etc). At this point our aim is to set up the framework for reviewers to evaluate the paper’s contributions, not to dazzle them with esoteric concepts!
 * When we talk about Human-Computer Co-Creativity, what are we talking about?
 We want to establish the setting in which people can understand what we’re talking about.
+**
 * Bergson’s definition of creativity might be confusing for people, but it’s pretty much the one we need to address our RQ.
 https://plato.stanford.edu/entries/bergson/#CreaEvol
 * Existing books about “creativity and ethics” don’t quite cut the mustard (e.g. various approaches to ethics and various approaches to creativity)
