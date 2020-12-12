@@ -11,7 +11,7 @@ The new framework allows the attribution of creativity not only to individual cr
 #+END_QUOTE
 * Bergson’s definition of "creativity" might be confusing for people, but it might be the the one we need to address our RQ.
 https://plato.stanford.edu/entries/bergson/#CreaEvol
-* Existing books about “creativity and ethics” and "technology and virtues" don’t quite cut the mustard (e.g. various approaches to ethics and various approaches to creativity)
+* Existing books about “creativity and ethics” and "technology and virtues" don’t quite cut the mustard
 ** TODO Say why these aren’t sufficient answers to our questions
 ** "Creativity and Ethics"
 ** "Technology and the virtues: A philosophical guide to a future worth wanting"
