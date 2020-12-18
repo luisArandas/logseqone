@@ -1,0 +1,19 @@
+#+title: Background: Concepts
+
+#+begin_quote
+At this point our aim is to set up the framework for reviewers to
+evaluate the paper’s contributions, not to dazzle them with esoteric
+concepts!  Nevertheless some framing concepts can be helpful.
+#+end_quote
+
+* Philosophy:
+- “Creative evolution” from Bergson
+- “Anthropotechnics” from Sloterdijk.
+* Anthropology:
+- “Chaîne opératoire” from André Leroi-Gourhan et al.
+- Histories of the evolution of intelligence (sociality & tools being key focal points)
+* Computing
+- “Computational Social Creativity” is one sub-field of computing research that is apropos, because it considers creativity spread across a social field.
+* Other fields:
+- “Professional ethics” (e.g., with reference to medicine, physics, etc).
+

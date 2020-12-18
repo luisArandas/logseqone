@@ -5,4 +5,8 @@
 ** Logseq itself is open source
 ** The software is linked with a pseudo-ethical method: zettelkasten
 *** https://en.wikipedia.org/wiki/Zettelkasten
-**
+** I previously worked on a paper in this space: Massively distributed authorship of academic papers
+Tomlinson, B., Ross, J., André, P., et al. 2012. Massively distributed authorship of academic papers. CHI’12 Extended Abstracts on Human Factors in Computing Systems, ACM, 11–20.
+
+
+
