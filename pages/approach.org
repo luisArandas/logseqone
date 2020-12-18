@@ -1,4 +1,5 @@
 #+title: Approach
+#+roam_tags: HL
 
 * Main idea survey philosophical ideas that are relevant and look at how they are used in practice.
 - We want to look at what is HCCC, how does it work overall, how this influence scientists in the practice

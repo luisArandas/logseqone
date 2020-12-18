@@ -1,4 +1,5 @@
 #+TITLE: Survey introduction
+#+roam_tags: HL
 
 ** Assuming we have the core concepts established, the survey section should be easy to write.
 Basic plan: I imagine a call ("A") and response ("B") setup. The (A)

@@ -1,4 +1,5 @@
 #+TITLE: Index of Ethics Paper
+#+roam_tags: HL
 
 * [[file:introduction.org][Introduction]] — Ethics of HCCC
 ** [[file:./background.org][Background]] — /Bring people up to speed with what we need to think about “HCCC” the broad way we talk about it./
