@@ -1,0 +1,78 @@
+#+title: Abstract
+
+
+# * REVIEW THE INTENTION: WHAT DO WE EXPECT TO LEARN OR MAKE TOGETHER?
+
+The aim of this paper to re-imagine "Human Computer Interaction" as a
+co-evolutionary process.  We address this through a detailed
+reconsideration of the concepts “creativity” and “ethics”.  The
+motivation for the investigation is that ethics also hard for humans
+to get right — e.g., consider ongoing concerns about climate change,
+genocides, etc. — so, accordingly, it becomes relevant to consider
+computational ethics not just in terms abstractions like trolley
+problems, but within a concrete historical context.  Similarly, we are
+led to look at “creativity” not in terms of an auteur — or even
+necessarily a single agent, but in terms of systems interaction.  By
+bringing together philosophical and computing literature, we hope to
+develop a set of salient ethical guidelines for researchers and
+practitioners in computing fields.
+
+# * ESTABLISH WHAT IS HAPPENING: WHAT AND HOW ARE WE LEARNING?
+
+Some reference points that can help scope our literature-based
+research are as follows:
+
+- *Philosophy*: e.g., “Creative evolution” from Henri Bergson,
+  “anthropotechnics” from Peter Sloterdijk.
+- *Anthropology*: e.g., the notion of “chaîne opératoire” from André
+  Leroi-Gourhan and “creative land” from Papua New Guinea (by way of
+  James Leach).
+- *Computing*: “Computational Social Creativity” which distributes
+  creativity across a social field.
+
+These three perspectives begin to establish a space, in which our
+survey will raise more detail.  Once we have collected relevant
+themes, we will discuss them in connection with other science and
+technology fields that given careful consideration to ethics (e.g.,
+medicine, physics).
+
+# * WHAT ARE SOME DIFFERENT PERSPECTIVES ON WHAT’S HAPPENING?
+
+The main body of the paper will follow a call (“A”) and response (“B”)
+structure. The (A) theme is to look at what people have said in
+various "philosophical" traditions — Western, nonwestern,
+phenomenological, experimental.  The (B) theme is to look at how these
+traditions have been received within HCI and Computational Creativity
+research (if at all).  In other words, we carry out a parallel survey
+of two different bodies of text, drawing connections between them. One
+model for this structure of writing is [[https://mako.cc/academic/benkler_shaw_hill-peer_production_ci.pdf][Peer Production: A Form of
+Collective Intelligence]] by Benkler, Shaw, and Hill.  Some
+methodological questions we considr are: do the computing papers
+recognisably consider ethics in some form?  E.g., have they sought
+ethics approval?  Is ethics considered in only an immediate sense
+(like in a psychology experiment) or in a broader sense (e.g., free
+software)? We also look for critical literature (e.g., dealing with AI
+bias).  By bringing together a wide range of viewpoints, we can
+understand the different extant practical approaches to computing
+ethics, as well as how they’re grounded in philosophy.  In order to
+focus our research we use concepts including “HCI” and “co-creativity”
+as inclusion criteria.
+
+# * WHAT DID WE LEARN OR CHANGE?
+
+Having collected themes, brie case studies allow us to look at how the
+concepts we've discussed bear on certain historical real-world
+examples, such as “mathematical creativity” and “social machines”.
+
+# * WHAT ELSE SHOULD WE CHANGE GOING FORWARD?
+
+With the historical case studies behind us, we then look beyond them
+to develop guidelines practice, with reference to other disciplinary
+guidelines.  Considerations include “creativity” in both a broad
+systemic and smaller agential/interactive sense.  We observe that
+current “HCI” technologies allow us to do global research, build
+projects involving people from around the world, with rich access to
+the world’s knowledge resources — but that there is more to be done in
+all of these areas.  We also reflect on why “Ethical AI” is so trendy
+right now, and speculate about the directions that this field may be
+heading in.
