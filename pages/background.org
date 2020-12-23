@@ -2,15 +2,6 @@
 #+roam_tags: HL
 
 * [[file:background_concepts.org][Background: Concepts]]
-* When we talk about Human-Computer Co-Creativity, what are we talking about?
-We want to establish the setting in which people can understand what we’re talking about.
-** From Anna's [[https://research.aalto.fi/en/publications/five-cs-for-humancomputer-co-creativity-an-update-on-classical-cr][paper]]:
-#+BEGIN_QUOTE
-The new framework allows the attribution of creativity not only to individual creators but to a collective of creators, recognising the importance of meta-level communication to the creative collaboration, and the variety of creative contributions that emerge during a co-creative process. It also elaborates on the different communities and contexts surrounding co-creative collaboration and thus facilitates the analysis, evaluation and study of human–computer co-creativity by allowing researchers to describe and situate their work in the field.
-#+END_QUOTE
-* Bergson’s definition of "creativity" might be confusing for people, but it might be the the one we need to address our RQ.
-https://plato.stanford.edu/entries/bergson/#CreaEvol
-* Existing books about “creativity and ethics” and "technology and virtues" don’t quite cut the mustard
-** TODO Say why these aren’t sufficient answers to our questions
-*** "Creativity and Ethics"
-*** "Technology and the virtues: A philosophical guide to a future worth wanting"
+* [[file:background_hccc.org][Background: HCCC]]
+* [[file:background_other.org][Background: Other]]
+(For miscellaneous stuff.)

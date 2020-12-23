@@ -1,0 +1,520 @@
+% Created 2020-12-23 Wed 20:27
+% Intended LaTeX compiler: pdflatex
+\documentclass[11pt]{article}
+\usepackage[utf8x]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{grffile}
+\usepackage{longtable}
+\usepackage{wrapfig}
+\usepackage{rotating}
+\usepackage[normalem]{ulem}
+\usepackage{amsmath}
+\usepackage{textcomp}
+\usepackage{amssymb}
+\usepackage{capt-of}
+\usepackage{hyperref}
+\usepackage[a4paper,bindingoffset=0.2in,left=1in,right=1in,top=1in,bottom=1in,footskip=.25in]{geometry}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{fontspec}
+\usepackage[math-style=french]{unicode-math}
+\usepackage{mathtools}
+\setmathfont[math-style=upright]{DejaVu Sans Mono}
+\setmonofont[scale=.8,Color=blue]{Ubuntu Mono}
+\newfontfamily{\mm}[scale=.8,Color=red]{DejaVu Sans Mono}
+\setmainfont[BoldFont=EB Garamond,BoldFeatures={Color=ff0000}]{EB Garamond}
+\newcommand{\hookuparrow}{\mathrel{\rotatebox[origin=c]{90}{$\hookrightarrow$}}}
+\usepackage{fix-abstract}
+\definecolor{pale}{HTML}{fffff8}
+\definecolor{orgone}{HTML}{83a598}
+\definecolor{orgtwo}{HTML}{fabd2f}
+\definecolor{orgthree}{HTML}{d3869b}
+\definecolor{orgfour}{HTML}{fb4933}
+\definecolor{orgfive}{HTML}{b8bb26}
+\definecolor{gruvbg}{HTML}{1d2021}
+\newenvironment*{emptyenv}{}{}
+\usepackage{sectsty}
+\sectionfont{\normalfont\color{red}\selectfont}
+\subsectionfont{\normalfont\selectfont}
+\paragraphfont{\normalfont\selectfont}
+\subsubsectionfont{\normalfont\selectfont\color{black!50}}
+\author{Luís Arandas et al.}
+\date{\today}
+\title{Natural Born Cyborgs: An Eternal Golden Braid\newline(Working Title)}
+\hypersetup{
+ pdfauthor={Luís Arandas et al.},
+ pdftitle={Natural Born Cyborgs: An Eternal Golden Braid\newline(Working Title)},
+ pdfkeywords={},
+ pdfsubject={},
+ pdfcreator={Emacs 28.0.50 (Org mode 9.4)}, 
+ pdflang={English}}
+\begin{document}
+
+\maketitle
+\begin{abstract}
+\noindent
+The aim of this paper to re-imagine “Human Computer Interaction” as a
+co-evolutionary process.  We address this through a detailed
+reconsideration of the concepts “creativity” and “ethics”.  The
+motivation for the investigation is that ethics also hard for humans
+to get right — e.g., consider ongoing concerns about climate change,
+genocides, etc. — so, accordingly, it becomes relevant to consider
+computational ethics not just in terms abstractions like trolley
+problems, but within a concrete historical context.  Similarly, we are
+led to look at “creativity” not in terms of an auteur — or even
+necessarily a single agent, but in terms of systems interaction.  By
+bringing together philosophical and computing literature, we hope to
+develop a set of salient ethical guidelines for researchers and
+practitioners in computing fields.
+\end{abstract}
+
+\setcounter{tocdepth}{1}
+\tableofcontents
+\section{Introduction}
+\label{sec:orga13a53c}
+\subsection{The Introduction will have to do some heavy lifting to explain that we're talking about ``creativity'' in a way that's not entirely familiar. I want to re-imagine ``Human Computer Interaction'' as a co-evolutionary process that has been developing over long time spans. There's nothing too shocking about that, but it can be hard to express in words. To make the paper accessible to reviewers we need to be careful how we present our concepts of ``creativity'' and ``ethics''. The basic motivation is that ethics is pretty hard for humans to get right (e.g., consider climate change, genocides, etc.), so we need to think about computational ethics not just in terms of trolley problems, but in a broader context. Similarly, we want to look at “creativity” not just in terms of an auteur — or even necessarily a single agent!}
+\label{sec:org1456544}
+\subsection{\hyperref[sec:org84f8193]{Premises} — \emph{‘Human-computer interaction’ is a bigger deal than we might think at first glance!\ldots{}}}
+\label{sec:org08bda59}
+\subsection{\hyperref[sec:org20e667e]{Scope}— TOCHI — \emph{covers humans interacting with computers}}
+\label{sec:org6d7f577}
+\subsubsection{Our RQ: WHAT ARE SUITABLE ETHICS FOR HCI+HCCC DESIGNERS?}
+\label{sec:orgdd29601}
+\subsection{\hyperref[sec:orgf4c7de5]{Approach} — \emph{We will survey philosophy and its applications in CS; then, we will describe possible next steps for research.}}
+\label{sec:org11b292a}
+\section{Approach}
+\label{sec:orgf4c7de5}
+\subsection{Main idea survey philosophical ideas that are relevant and look at how they are used in practice.}
+\label{sec:orgec475e8}
+\begin{itemize}
+\item We want to look at what is HCCC, how does it work overall, how this influence scientists in the practice
+\end{itemize}
+\subsection{An inspiring model: “Peer Production: A Form of Collective Intelligence” (Benkler et al.)}
+\label{sec:org5837ab1}
+\begin{quote}
+In the rest of this chapter, we describe the development of the
+academic literature on peer production and collective intelligence in
+three areas – organization, motivation, and quality. In each area, we
+introduce foundational work consisting primarily of earlier
+scholarship that sought to describe peer production and establish its
+legitimacy. Subsequently, we characterize work, usually more recent,
+that seeks to pursue new directions and to derive more nuanced
+analytical insights. — \url{https://mako.cc/benkler\_shaw\_hill-peer\_production\_ci.pdf}
+\end{quote}
+\section{Index of Ethics Paper}
+\label{sec:orgafe7207}
+\subsection{\hyperref[sec:orga13a53c]{Introduction} — Ethics of HCCC}
+\label{sec:org2f5e893}
+\subsubsection{\hyperref[sec:org71daf48]{Background} — \emph{Bring people up to speed with what we need to think about “HCCC” the broad way we talk about it.}}
+\label{sec:orgd7f349e}
+\subsection{Philosophy and Ethics — Intersected with Computer Science Practice}
+\label{sec:org7c7d609}
+\subsubsection{\hyperref[sec:org6c6ca17]{Survey introduction}}
+\label{sec:org123b528}
+\subsubsection{Western philosophy and ethics definition (as basic for the paper) \hyperref[sec:org6bf393e]{1.0}}
+\label{sec:org2c02f3f}
+\subsubsection{Relating western to nonwestern practices \hyperref[sec:org017783c]{2.0}}
+\label{sec:orge8198d1}
+\subsubsection{Phenomenology and being \hyperref[sec:orgcbc9a7d]{3.0}}
+\label{sec:org8f1f0b3}
+\subsubsection{Embodied cognition, social intelligence, collective intelligence \hyperref[sec:orgda41c79]{4.0}}
+\label{sec:org3036604}
+\subsubsection{Reprise: Evolution regarding all of these \hyperref[sec:org887356d]{5.0}}
+\label{sec:orgdecbff4}
+\subsection{\hyperref[sec:orga7d5b63]{Case studies} — if wanted}
+\label{sec:org7804f2a}
+\subsection{\hyperref[sec:orgb1f7b9a]{Discussion} How can we build on the survey above to plan new directions of work?}
+\label{sec:org5a151e9}
+\section{Background}
+\label{sec:org71daf48}
+\subsection{\hyperref[sec:org1164c4f]{Background: Concepts}}
+\label{sec:org3ba4eb5}
+\subsection{\hyperref[sec:org2aca6e0]{Background: HCCC}}
+\label{sec:org1162a31}
+\subsection{\hyperref[sec:orgaefd206]{Background: Other}}
+\label{sec:org61f7f33}
+(For miscellaneous stuff.)
+\section{Background: Concepts}
+\label{sec:org1164c4f}
+\begin{quote}
+At this point our aim is to set up the framework for reviewers to
+evaluate the paper’s contributions, not to dazzle them with esoteric
+concepts!  Nevertheless some framing concepts can be helpful.
+\end{quote}
+
+\subsection{Philosophy:}
+\label{sec:org72ee4ef}
+\begin{itemize}
+\item “Creative evolution” from Bergson
+\item “Anthropotechnics” from Sloterdijk.
+\end{itemize}
+\subsection{Anthropology:}
+\label{sec:orgbbe6abf}
+\begin{itemize}
+\item “Chaîne opératoire” from André Leroi-Gourhan et al.
+\item Histories of the evolution of intelligence (sociality \& tools being key focal points)
+\end{itemize}
+\subsection{Computing}
+\label{sec:orgf4096d0}
+\begin{itemize}
+\item “Computational Social Creativity” is one sub-field of computing research that is apropos, because it considers creativity spread across a social field.
+\end{itemize}
+\subsection{Other fields:}
+\label{sec:org569dc83}
+\begin{itemize}
+\item “Professional ethics” (e.g., with reference to medicine, physics, etc).
+\end{itemize}
+
+\section{Background: HCCC}
+\label{sec:org2aca6e0}
+\subsection{When we talk about Human-Computer Co-Creativity, what are we talking about?}
+\label{sec:org36c0d13}
+We want to establish the setting in which people can understand what we’re talking about.
+\subsubsection{From Anna's \href{https://research.aalto.fi/en/publications/five-cs-for-humancomputer-co-creativity-an-update-on-classical-cr}{paper}:}
+\label{sec:org14065b5}
+\begin{quote}
+The new framework allows the attribution of creativity not only to individual creators but to a collective of creators, recognising the importance of meta-level communication to the creative collaboration, and the variety of creative contributions that emerge during a co-creative process. It also elaborates on the different communities and contexts surrounding co-creative collaboration and thus facilitates the analysis, evaluation and study of human–computer co-creativity by allowing researchers to describe and situate their work in the field.
+\end{quote}
+
+\section{Background: Other}
+\label{sec:orgaefd206}
+\subsection{Bergson’s definition of ``creativity'' might be confusing for people, but it might be the the one we need to address our RQ.}
+\label{sec:orgd72aad0}
+\url{https://plato.stanford.edu/entries/bergson/\#CreaEvol}
+\subsection{Existing books about “creativity and ethics” and ``technology and virtues'' don’t quite cut the mustard}
+\label{sec:org820cec5}
+\subsubsection{{\bfseries\sffamily TODO} Say why these aren’t sufficient answers to our questions}
+\label{sec:org21e304b}
+\begin{enumerate}
+\item ``Creativity and Ethics''
+\label{sec:org51dfd37}
+\item ``Technology and the virtues: A philosophical guide to a future worth wanting''
+\label{sec:org4abc9ba}
+\end{enumerate}
+
+\section{Survey introduction}
+\label{sec:org6c6ca17}
+\subsubsection{Assuming we have the core concepts established, the survey section should be easy to write.}
+\label{sec:orgb916ad8}
+Basic plan: I imagine a call (``A'') and response (``B'') setup. The (A)
+theme is to look at what people have said in various ``philosophical''
+traditions — Western, nonwestern, phenomenological, experimental. The
+(B) theme is to look at how these traditions have been received within
+HCI and Computational Creativity research — if at all. In other words,
+this is a parallel survey of two different bodies of text, drawing
+connections between them. While there could be a lot of reading here,
+the writing part is basically procedural.  Furthermore, we could break
+down the tasks in different sub-sections to make it more focused. One
+nice model for this structure of writing is \href{https://mako.cc/benkler\_shaw\_hill-peer\_production\_ci.pdf}{Benkler, Shaw, and Hill}
+Some methodological questions we can ask about the computing papers:
+do the papers consider ethics at all? Have they sought ethics
+approval?  Is ethics considered in only an immediate sense (like in a
+psychology experiment) or in a broader sense (e.g., free software)? We
+could also look at critical literature (e.g., dealing with AI
+bias). At the end of this section, we should understand the different
+extant practical approaches to ethics, and how they’re grounded in
+philosophy. We can use boundary lines like “HCI” and “co-creativity”
+as selection criteria to make sure that we don’t include everything.
+\subsubsection{\hyperref[sec:orgaab3331]{Main References}}
+\label{sec:org9bee49a}
+\subsubsection{Based on what's raised in §1, create a taxonomic framework for the rest of the paper}
+\label{sec:orgd2ace76}
+This subsection should correspond to the conclusion of this section and connect all of these to subsequent *.B 
+\subsection{1.0}
+\label{sec:org6bf393e}
+
+\subsubsection{Western philosophy and ethics summary \hyperref[sec:org96c939c]{1.A}}
+\label{sec:orgaaa9f87}
+\subsubsection{How do people talk about mainstream ethics in CS? \hyperref[sec:org1be32c3]{1.B}}
+\label{sec:orgaf6a652}
+\subsection{1.A}
+\label{sec:org96c939c}
+
+\subsubsection{Aristotelian vs Platonic}
+\label{sec:org3bef0e2}
+\subsubsection{Kant and the categorical imperative}
+\label{sec:org2c65138}
+\subsubsection{David Hume on the problem of induction}
+\label{sec:orgfad2815}
+\subsubsection{Maybe talk about the authors that break down cognitivism and agree or not - dualists, functionalists, materialists etc}
+\label{sec:org800d2fa}
+\subsubsection{All of this connects to philosophy of mind. Maybe necessary?}
+\label{sec:orgb0a52e0}
+\subsubsection{go deep maybe into pre-aristotle}
+\label{sec:orgf4f0cd1}
+
+\subsection{1.B}
+\label{sec:org1be32c3}
+
+Need to establish keywords from 1.A to search the literature with!
+\begin{enumerate}
+\item At this level one broadly relevant category is ``law''
+\label{sec:org0b1c46a}
+\begin{enumerate}
+\item And, in particular, one sub-category is
+\label{sec:org03fa69e}
+\end{enumerate}
+\end{enumerate}
+\subsection{2.0}
+\label{sec:org017783c}
+
+\subsubsection{Survey of (relevant) non-western philosophies and ethics \hyperref[sec:orgb61553b]{2.A}}
+\label{sec:orgeb3534c}
+\subsubsection{Survey of related non-western thought (e.g., \textbf{decolonial approaches} to AI) \hyperref[sec:orgfaccdba]{2.B}}
+\label{sec:orge7ef739}
+\subsection{2.A}
+\label{sec:orgb61553b}
+
+\subsubsection{panpsychism, buddhism, animism, ubuntu}
+\label{sec:org399718d}
+(all universe is alive and updating materialism) - which not
+necessarily might be eastern but bridge with what doesnt exist
+\subsection{2.B}
+\label{sec:orgfaccdba}
+
+What's called decolonial AI, looking at international thinking about
+this — antiwestern in a way.
+\subsection{3.0}
+\label{sec:orgcbc9a7d}
+
+\subsubsection{Phenomenology and related philosophies \hyperref[sec:org8815f23]{3.A}}
+\label{sec:org6689ef3}
+\subsubsection{CS/ethics related to phenomenology \hyperref[sec:orgd8ccb82]{3.B}}
+\label{sec:org41a7111}
+\subsection{3.A}
+\label{sec:org8815f23}
+
+\subsubsection{husserl and heidegger all the way - what is it to be alive.}
+\label{sec:org87bf5a3}
+May not be necessary to go into this - and on next chapter computational neuroscience vs all these philosophical questions might be a problem.)
+\subsubsection{preontology - and going to what he breaks down}
+\label{sec:orge218182}
+\subsubsection{be careful to connect this - being and everything - with ethics - Wittgenstein (ethics and aesthetics are one and the same)}
+\label{sec:org2111405}
+
+\subsection{3.B}
+\label{sec:orgd8ccb82}
+
+TBA
+\subsection{4.0}
+\label{sec:orgda41c79}
+
+It seems that philosophy has become physicalized in psychology
+(Helmholtz, Kant, Freud, Jung), leading up to contemporary cognitive
+science.
+\subsubsection{Philosophy of Cog Sci and friends \hyperref[sec:orgd80447c]{4.A}}
+\label{sec:org23e5688}
+\subsubsection{HCCC Ethics of Cog Sci and friends \hyperref[sec:org5d87364]{4.B}}
+\label{sec:org1a4fb92}
+\subsection{4.A}
+\label{sec:orgd80447c}
+
+\subsubsection{Metacognition and ethical judgement - (maybe connect to the title here, and bring cognitive psychology to the discussion (behaviour))}
+\label{sec:org6f75814}
+\subsubsection{Modelling ethics and cognition}
+\label{sec:org8413f59}
+\subsubsection{Predictive Processing and Active Inference (bring embodiment to the discussion here)}
+\label{sec:org1243dcb}
+\subsubsection{“Ethical AI”}
+\label{sec:org48937bd}
+\subsection{4.B}
+\label{sec:org5d87364}
+
+Here we look at the CS literature that incorporates an ethics related
+to “Cog Sci and friends”.
+
+\subsubsection{This seems to relate to the topics discussed in \hyperref[sec:orgbedef93]{How AI can be a force for good}}
+\label{sec:org2c8202a}
+In particular, the part about “distributed agency” seems like a
+cog-sci related topic.
+\subsection{5.0}
+\label{sec:org887356d}
+
+Talking about human, cognitive, cultural evolution regarding all of these positions.
+
+\subsubsection{Maybe survey what is common to all of them? and how do this constraints; maybe add cultural differences and analogies;}
+\label{sec:orgb7d0b05}
+\subsubsection{Current research and breakthroughs on cognition and ethical selfawareness; metacognition and world philosophy;}
+\label{sec:orga71a894}
+\subsubsection{Evolution of western thought - connections between philosophy and cognitive science.}
+\label{sec:org270820e}
+Set up a launching pad for thinking about next steps beyond the survey.
+\subsubsection{Notice that now that computers are involved, the way we think about ethics and so on is likely to change.}
+\label{sec:org884fd35}
+\section{Case studies}
+\label{sec:orga7d5b63}
+\subsubsection{Assuming we hold on to this section, it allows us a deeper dive into some examples. Case studies would allow us to look at the concepts we've discussed in the previous sections in a real-world context. However, we’d want to be sure that these aren’t just “tacked on.” Possible examples:}
+\label{sec:orgbd4f311}
+\begin{enumerate}
+\item Maybe robots?
+\label{sec:org28062fc}
+\item \hyperref[sec:org36972a8]{Mathematical creativity} throughout time
+\label{sec:orgea179e9}
+\item Social machines
+\label{sec:org96b9110}
+\item \hyperref[sec:orge34f081]{Logseq and friends} — This could be a good one because it relates to the primary tool that we're using for writing this paper
+\label{sec:org9112a2a}
+\end{enumerate}
+\subsection{Logseq and friends}
+\label{sec:orge34f081}
+
+\begin{enumerate}
+\item Logseq is part of a history of tool evolution that includes Roam Research, which has been massively capitalized recently
+\label{sec:org8d52c30}
+\item Other relevant tools in the same space include Org Roam (that one is open source)
+\label{sec:orgfb71d50}
+\item Logseq itself is open source
+\label{sec:orgbb4dc3b}
+\item The software is linked with a pseudo-ethical method: zettelkasten
+\label{sec:org90e5d61}
+\begin{enumerate}
+\item \url{https://en.wikipedia.org/wiki/Zettelkasten}
+\label{sec:orgf3e1eeb}
+\end{enumerate}
+\item I previously worked on a paper in this space: Massively distributed authorship of academic papers
+\label{sec:org3b94fe2}
+Tomlinson, B., Ross, J., André, P., et al. 2012. Massively distributed authorship of academic papers. CHI’12 Extended Abstracts on Human Factors in Computing Systems, ACM, 11–20.
+\end{enumerate}
+
+
+
+\subsection{How AI can be a force for good}
+\label{sec:orgbedef93}
+
+\subsubsection{Distributed agency}
+\label{sec:org1c39207}
+\begin{quote}
+With distributed agency comes distributed responsibility. Existing ethical frameworks address individual, human responsibility, with the goal of allocating punishment or reward based on the actions and intentions of an individual. They were not developed to deal with distributed
+responsibility.
+\end{quote}
+\begin{enumerate}
+\item \url{https://drive.google.com/drive/u/1/folders/13bwMQfn8RY67-znVdnC7WO6OdcpDtR83}
+\label{sec:org51e0373}
+\item This seems like an important point: we'll need new (not necessarily ``agential'') ways to think about ethics.
+\label{sec:orgc46ff7a}
+\item It seems useful to apply this in somewhat more general terms about ``intelligent systems'' — or just ``systems with emergent properties''; so, if distributed agents produce e.g., environmental degradation, that's not ethical, and the system as a whole ``should'' find ways to improve its behaviour.  This sort of thing is thought about in Elinor Ostrom's economics.
+\label{sec:orgf18c1d6}
+\item A particular concern of Taddeo \& Floridi here seems to be ``autonomy'' of AI, and ``self-determination'' of humans. But in the case of HCI/HCCC it's not totally clear that either of these criteria apply.  In HCCC it's much closer to anthropotechnics
+\label{sec:orgec1cbff}
+\begin{enumerate}
+\item \url{https://www.wired.com/beyond-the-beyond/2015/09/peter-sloterdijk-anthropotechnics/}
+\label{sec:orge37b9c5}
+\end{enumerate}
+\end{enumerate}
+
+\subsubsection{Regulation}
+\label{sec:orgad14d11}
+\begin{quote}
+Humanity learned this lesson the hard way when it did not regulate the impact of the industrial revolution on labor forces, and also when it recognized too late the environmental impact of massive industrialization and global consumerism.
+\end{quote}
+\begin{enumerate}
+\item I think it's worthwhile to think of these things as \textbf{not separate} from AI issues
+\label{sec:orgd9a412b}
+\begin{enumerate}
+\item Supplementary info:
+\label{sec:org688b83f}
+\url{https://science.sciencemag.org/content/suppl/2018/08/22/361.6404.751.DC1}
+\end{enumerate}
+\end{enumerate}
+\subsection{Mathematical creativity}
+\label{sec:org36972a8}
+
+\subsubsection{Section introduction: Objectives}
+\label{sec:org8bbad08}
+Have we built up enough of a repertoire to do a deep dive on mathematical creativity?
+\subsubsection{What is mathematics? martin heidegger anything learnable as such. Jorge Luís Borges - the map argument;}
+\label{sec:org67315d3}
+\subsubsection{The end of cognition and human ability? The limits of reality and the limits of math (e.g. dimensionality)}
+\label{sec:org5900d63}
+\subsubsection{Mathematical creativity as an example - and so what in what ways does it actually ramifies}
+\label{sec:orgc390758}
+
+\section{Discussion}
+\label{sec:orgb1f7b9a}
+\subsubsection{The Discussion is a bit hard to chart in advance, but roughly it asks: having done this survey, and looked at a couple case studies, have we learned anything that's relevant for practice? Maybe here is a good time to return to some of the debates that look at ``creativity'' in a more mainstream sense, e.g., Anna Kantosalo and Ben Schneiderman about creative systems and social inclusion vs exclusion? From the point of view of ``Methods'', hopefully we will have clarified at the start why we think this sort of activity could lead to new insights! Now, at the end, we might draw some conclusions about how ``HCI'' allows us to do global research, build projects involving people from around the world, with rich access to the world’s knowledge resources. We might also have something to say about why Ethical AI is so trendy right now, and perhaps even speculate a bit about its future!}
+\label{sec:org2258ed8}
+\subsubsection{Some possible places this could go:}
+\label{sec:org56ebe9a}
+\begin{enumerate}
+\item How can I practically engage with these issues as a computer science researcher?
+\label{sec:orgc471b6f}
+\item Tech design and CS thinking: creativity as mirror of ethical principles
+\label{sec:org09ec082}
+\item Research Ethics
+\label{sec:org282b2fa}
+\item Interfaces and establishing relationships between people and things?
+\label{sec:orgbc927ef}
+\item How do I relate to knowledge, and with/to the whole body of historical philosophy, science, inquiry, and maybe AI and tech systems?
+\label{sec:orgf91d822}
+\end{enumerate}
+\subsection{mind}
+\label{sec:orge4b262a}
+
+\begin{enumerate}
+\item What does mind mean?
+\label{sec:org4c9b9ca}
+\item What is mind
+\label{sec:org8d5cc07}
+\end{enumerate}
+\subsection{Premises}
+\label{sec:org84f8193}
+
+\subsubsection{We’ve entered into a new era, and we need to understand what’s going on.}
+\label{sec:org0c9e273}
+\subsubsection{Although part of this is the legacy of the industrial revolution, computers have played a significant role in the growth of knowledge}
+\label{sec:org844a366}
+\subsubsection{In a certain sense the CS field is playing “catch-up” with CMC: we invent new paradigms for interaction (e.g., Wikipedia, machine learning)}
+\label{sec:org36ddcd9}
+\subsubsection{However, we don’t yet have a robust way to \emph{think} about human computer interaction at this broad scale}
+\label{sec:orgeb52bfc}
+\subsubsection{We try to wrap our minds around “Human-Computer Co-Creativity” by looking at CMC, HCI, and CI.}
+\label{sec:org4fa03ed}
+Let’s work our way up to discussing HCCC by starting with “human
+co-creativity using computers”, and introduce AI once we have a grasp
+of how computer mediated communication and collective intelligence
+works.
+
+
+\subsection{Scope}
+\label{sec:org20e667e}
+
+\subsubsection{TOCHI’s statement of purpose}
+\label{sec:org5e2dcfc}
+
+\begin{quote}
+ACM Transactions on Computer-Human Interaction (TOCHI) covers the
+software, hardware and human aspects of interaction with
+computers. Topics include hardware and software architectures;
+interactive techniques, metaphors, and evaluation; user interface
+design processes; and users and groups of users. Those within the
+artificial intelligence, object-oriented systems, information systems,
+graphics and software engineering communities, will benefit from the
+high quality research papers in TOCHI concerning information and ideas
+directly related to the construction of effective human-computer
+interfaces.
+\end{quote}
+
+\subsubsection{Our research question within this area:}
+\label{sec:org9d79ed5}
+\begin{enumerate}
+\item Is there an ethical use of computer technology, and if so, what is it?  How would we get intuitions about that?
+\label{sec:orgfb1dfa6}
+\item What is our orientation towards computers broadly put?
+\label{sec:orga8e6615}
+\item How can we bring a deeper foundation for the ethical use of intelligence technology?
+\label{sec:org86e7d06}
+\end{enumerate}
+\subsection{Main References}
+\label{sec:orgaab3331}
+
+\subsubsection{``Who else has attempted anything similar or related to this in the past?''}
+\label{sec:orgf925610}
+\subsubsection{This is not to say that these are necessarily ``our'' main references}
+\label{sec:orge36371e}
+\subsubsection{\href{https://en.wikipedia.org/wiki/Bernard\_Stiegler\#Books\_in\_English}{Bernard Stiegler} — philosophy of technics and other works}
+\label{sec:org4f14870}
+\subsubsection{\href{https://en.wikipedia.org/wiki/Peter\_Sloterdijk\#Works\_in\_English\_translation}{Peter Sloterdijk} — philosophy of the human environment}
+\label{sec:orgf808942}
+\subsubsection{James Lovelock — \emph{Novacene: The coming age of hyperintelligence} — This is good because of the evolutionary perspective, though his reasoning may be a bit off}
+\label{sec:org9416e8b}
+\end{document}
