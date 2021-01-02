@@ -1,4 +1,5 @@
 #+TITLE: Machines Who Think: A Personal Inquiry into the History and Prospects of Artificial Intelligence
 
 ** This is a book about AI. It relates to the [[Case studies]], insofar as it came up in a footnote in Stephanie Dick's "AfterMath"
-** S. Dick's paper talks about the role of hybrid systems, which has come up again in Chess and will likely be prevalent in other fields.
+** S. Dick's paper talks about the role of hybrid systems, which has come up again in Chess and will likely be prevalent in other fields:
+** #+BEGIN_QUOTE:
