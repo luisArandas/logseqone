@@ -6,3 +6,4 @@
 #+BEGIN_QUOTE
 the character and capacities of computer work and human work depend on the nature of human–computer interactions and their mutual enabling and/or inhibiting in specific systems.
 #+END_QUOTE
+**
