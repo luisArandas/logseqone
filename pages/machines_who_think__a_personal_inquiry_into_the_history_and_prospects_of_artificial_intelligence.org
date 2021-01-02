@@ -1,4 +1,4 @@
 #+TITLE: Machines Who Think: A Personal Inquiry into the History and Prospects of Artificial Intelligence
 
-** This is a book about AI. It relates to the [[Case studies]]
+** This is a book about AI. It relates to the [[Case studies]], insofar as it came up in a footnote in Stephanie Dick's "AfterMath"
 **
