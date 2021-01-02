@@ -7,3 +7,7 @@
 the character and capacities of computer work and human work depend on the nature of human–computer interactions and their mutual enabling and/or inhibiting in specific systems.
 #+END_QUOTE
 ** She talks about a "cultural materialism" in science.
+#+BEGIN_QUOTE
+As will be discussed at length in the next section, one way that intuition was imparted to the computer program was as a weighting mechanism for privileging certain inference paths over others
+#+END_QUOTE
+**
