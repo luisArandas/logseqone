@@ -14,4 +14,3 @@ As will be discussed at length in the next section, one way that intuition was i
 #+BEGIN_QUOTE
 The capacity to identify what was “promising” or “interesting” was precisely one of those unautomatable human abilities, since, without guidance, computers indiscriminately produce all consequences.
 #+END_QUOTE
-**
