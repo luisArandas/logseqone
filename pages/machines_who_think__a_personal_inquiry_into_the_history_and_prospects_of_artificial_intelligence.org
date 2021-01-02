@@ -10,4 +10,8 @@ the character and capacities of computer work and human work depend on the natur
 #+BEGIN_QUOTE
 As will be discussed at length in the next section, one way that intuition was imparted to the computer program was as a weighting mechanism for privileging certain inference paths over others
 #+END_QUOTE
+** This reminds me of my preprint about serendipity.
+#+BEGIN_QUOTE
+The capacity to identify what was “promising” or “interesting” was precisely one of those unautomatable human abilities, since, without guidance, computers indiscriminately produce all consequences.
+#+END_QUOTE
 **
