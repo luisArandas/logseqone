@@ -44,14 +44,11 @@ bringing together philosophical and computing literature, we hope to
 develop a set of salient ethical guidelines for researchers and
 practitioners in computing fields.
 \end{abstract}
+#+END_LATEX
 ** \setcounter{tocdepth}{1}
 \tableofcontents
 # IMPORT
 * Introduction
-:PROPERTIES:
-  :tag: HL
-  :END:
-
 ** The Introduction will have to do some heavy lifting to explain that we're talking about "creativity" in a way that's not entirely familiar. I want to re-imagine "Human Computer Interaction" as a co-evolutionary process that has been developing over long time spans. There's nothing too shocking about that, but it can be hard to express in words. To make the paper accessible to reviewers we need to be careful how we present our concepts of "creativity" and "ethics". The basic motivation is that ethics is pretty hard for humans to get right (e.g., consider climate change, genocides, etc.), so we need to think about computational ethics not just in terms of trolley problems, but in a broader context. Similarly, we want to look at “creativity” not just in terms of an auteur — or even necessarily a single agent!
 ** [[*Premises][Premises]] — /‘Human-computer interaction’ is a bigger deal than we might think at first glance!.../
 ** [[*Scope][Scope]]— TOCHI — /covers humans interacting with computers/
