@@ -2,4 +2,7 @@
 
 ** This is a book about AI. It relates to the [[Case studies]], insofar as it came up in a footnote in Stephanie Dick's "AfterMath"
 ** S. Dick's paper talks about the role of hybrid systems, which has come up again in Chess and will likely be prevalent in other fields:
-** #+BEGIN_QUOTE:
+** 
+#+BEGIN_QUOTE
+the character and capacities of computer work and human work depend on the nature of human–computer interactions and their mutual enabling and/or inhibiting in specific systems.
+#+END_QUOTE
