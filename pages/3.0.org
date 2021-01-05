@@ -2,3 +2,5 @@
 
 * Phenomenology and related philosophies [[file:3_a.org][3.A]]
 * CS/ethics related to phenomenology [[file:3_b.org][3.B]]
+* This is an extra sentence
+And this is a sentence with a footnote.[fn:: This is the inline definition of this footnote].
