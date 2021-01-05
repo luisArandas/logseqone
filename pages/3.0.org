@@ -4,9 +4,9 @@
 * CS/ethics related to phenomenology [[file:3_b.org][3.B]]
 * This is an extra sentence
 And this is a sentence with a footnote.[fn:: This is the inline definition of this footnote]
-* LATER Figure out what to do with comments
+* TODO Figure out what to do with comments
 :PROPERTIES:
-:todo: 1609890017331
-:done: 1609890024725
+:todo: 1609890041705
 :later: 1609890028411
+:done: 1609890024725
 :END:
