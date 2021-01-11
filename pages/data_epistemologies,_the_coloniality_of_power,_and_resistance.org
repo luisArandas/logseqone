@@ -40,3 +40,7 @@ data resistance practices
 In many cases, indigenous populations are being recolonized through datafication and public policies regarding the implementation of digital literacy programs or digital citizenship policies.
 #+END_QUOTE
 **
+#+BEGIN_QUOTE
+Several citizen projects address this official data gap through maps and visualizations.
+#+END_QUOTE
+**
