@@ -4,3 +4,8 @@
 ** I've known the author, Paola Ricaurte, for years, but haven't yet engaged much with her research!
 ** The other interviewee is Yasmine Boudiaf, who I met in 2020
 **
+#+BEGIN_QUOTE
+This epistemology, which represents a more complex evolution of the post-positivist paradigm, is based on three assumptions: (1) data reflects reality, (2) data analysis generates the most valuable and accurate knowledge, and (3) the results of data processing can be used to make better decisions about the world. Nevertheless, all these assumptions should be contested and analyzed in a
+broader framework that considers how this form of knowledge production increases capital concentration (West 2017), surveillance (Zuboff 2015), and colonization (Couldry and Mejias 2019).
+#+END_QUOTE
+**
