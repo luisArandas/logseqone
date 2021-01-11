@@ -20,3 +20,7 @@ One proposal to bring balance to the data extractivism model suggests compensati
 #+END_QUOTE
 ** Paola rejects that idea as too linked to capitalism and markets. Instead:
 **
+#+BEGIN_QUOTE
+Decolonial thinking and epistemic disobedience demand the transformation of the structure of power by taking “control over labor/resources/product, over sex/resources/products, over authorities/institutions/violence, and over intersubjectivity/knowledge/communication to the daily life of the people” (Quijano 2000, 573).
+#+END_QUOTE
+**
