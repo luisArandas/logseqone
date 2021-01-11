@@ -44,3 +44,8 @@ In many cases, indigenous populations are being recolonized through datafication
 Several citizen projects address this official data gap through maps and visualizations.
 #+END_QUOTE
 ** The theme of missing data on how many people are killed isn't expanded in detail in this paper, so the reference needs to be chased.
+**
+#+BEGIN_QUOTE
+At the same time, this initiative has proven it is possible to generate a social reaction and counternarratives that contribute to understanding the importance of the problem of gender violence.
+#+END_QUOTE
+**
