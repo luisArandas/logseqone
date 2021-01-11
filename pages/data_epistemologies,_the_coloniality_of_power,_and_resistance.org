@@ -10,3 +10,6 @@ broader framework that considers how this form of knowledge production increases
 #+END_QUOTE
 ** The themes remind be of the book "Columbus and other Cannibals" by Jack D Forbes that I read recently
 **
+#+BEGIN_QUOTE
+How do the underlying power relations affect populations that exist outside this knowledge order?
+#+END_QUOTE
