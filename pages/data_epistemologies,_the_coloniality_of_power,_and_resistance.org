@@ -13,3 +13,4 @@ broader framework that considers how this form of knowledge production increases
 #+BEGIN_QUOTE
 How do the underlying power relations affect populations that exist outside this knowledge order?
 #+END_QUOTE
+**
