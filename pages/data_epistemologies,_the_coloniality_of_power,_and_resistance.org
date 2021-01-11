@@ -30,4 +30,9 @@ Decolonial thinking and epistemic disobedience demand the transformation of the 
 #+BEGIN_QUOTE
 data resistance practices
 #+END_QUOTE
+** I wonder what these are
+**
+#+BEGIN_QUOTE
+(1) developing legal frameworks (2) designing public policy, (3) using artificial intelligence systems for public administration, (4) hiring technological services, (5) acquiring products for public administration and surveillance purposes, (6) implementing public policies and digital agendas, and (7) facilitating education and the development of labor forces.
+#+END_QUOTE
 **
