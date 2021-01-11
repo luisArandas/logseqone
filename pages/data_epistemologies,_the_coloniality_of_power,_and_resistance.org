@@ -27,3 +27,7 @@ Decolonial thinking and epistemic disobedience demand the transformation of the 
 ** "Data Assemblages" c/o Kitchin
 ** Table 1 is a very useful summary of the harms & inequities associated with the current default model.  I wonder how they relate to the kind of thinking in R. M. Unger's agitation for a "[[Knowledge Economy]]"
 **
+#+BEGIN_QUOTE
+data resistance practices
+#+END_QUOTE
+**
