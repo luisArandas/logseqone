@@ -15,3 +15,7 @@ How do the underlying power relations affect populations that exist outside this
 #+END_QUOTE
 ** The issues seem relevant also inside of places like the US (we shouldn't forget that colonialism exists there!)
 **
+#+BEGIN_QUOTE
+One proposal to bring balance to the data extractivism model suggests compensating individuals for their contribution to the digital economy and supporting competitive markets
+#+END_QUOTE
+**
