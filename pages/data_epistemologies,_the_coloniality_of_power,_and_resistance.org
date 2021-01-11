@@ -43,4 +43,4 @@ In many cases, indigenous populations are being recolonized through datafication
 #+BEGIN_QUOTE
 Several citizen projects address this official data gap through maps and visualizations.
 #+END_QUOTE
-**
+** The theme of missing data on how many people are killed isn't expanded in detail in this paper, so the reference needs to be chased.
