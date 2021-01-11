@@ -49,3 +49,7 @@ Several citizen projects address this official data gap through maps and visuali
 At the same time, this initiative has proven it is possible to generate a social reaction and counternarratives that contribute to understanding the importance of the problem of gender violence.
 #+END_QUOTE
 **
+#+BEGIN_QUOTE
+As data becomes the preferred way of representing knowledge in our time, we must pay attention to the diverse worldviews that come into tension in an unequal world
+#+END_QUOTE
+** There's something a bit provocative about that: it seems wrong but maybe it's right.
