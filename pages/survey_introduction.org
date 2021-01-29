@@ -1,6 +1,7 @@
 #+TITLE: Survey introduction
 #+roam_tags: HL
 
+** [[How do we use ethics]]
 ** Assuming we have the core concepts established, the survey section should be easy to write.
 Basic plan: I imagine a call ("A") and response ("B") setup. The (A)
 theme is to look at what people have said in various "philosophical"
