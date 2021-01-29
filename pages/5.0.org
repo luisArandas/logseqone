@@ -8,4 +8,4 @@ Talking about human, cognitive, cultural evolution regarding all of these positi
 Set up a launching pad for thinking about next steps beyond the survey.
 * Notice that now that computers are involved, the way we think about ethics and so on is likely to change.
 * [[Language is mapping thinking]]
-* []
+* [[[Evolution]]
