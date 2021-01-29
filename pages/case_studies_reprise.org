@@ -1,6 +1,6 @@
 #+TITLE: Case studies reprise
 
-** ** Illustrations — Examples back to them if introduced earlier
+** Illustrations — Examples back to them if introduced earlier
 
 If we have a taxonomy we can see how it applies in a few cases!
 
