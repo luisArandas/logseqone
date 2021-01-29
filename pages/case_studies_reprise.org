@@ -1,0 +1,65 @@
+#+TITLE: Case studies reprise
+
+** ** Illustrations — Examples back to them if introduced earlier
+
+If we have a taxonomy we can see how it applies in a few cases!
+
+We can comment on, e.g.. *Mathematical creativity* and *Logseq and
+friends* (Zettlekasten method and second brains), maybe also *Computational Creativity*.
+
+- use MC as an example on the ethical baggage - ACM community - creativity as AN/1 example
+- Machines Who Think: A Personal Inquiry into the History and Prospects of Artificial Intelligence
+- Ben Goetzel: 2 mindsets? AGI, Computational Neuroscience
+- Luis: program a bot that can teach me math / Nic FFT equation; process philosophy as a generalisation of this?
+
+### Mathematical Creativity / Mathematics and computing...
+
+They say that Gauss was the last person who knew all of mathematics.
+
+- David Hume on the problem of induction
+
+Have we built up enough of a repertoire to do a deep dive on
+mathematical creativity?  Do we need to address these points at the
+outset?
+
+- What is mathematics? martin heidegger anything learnable as such. Jorge Luís Borges - the map argument;
+- The end of cognition and human ability? The limits of reality and the limits of math (e.g. dimensionality)
+- Mathematical creativity as an example - and so what in what ways does it actually ramifies
+
+S. Dick\'s paper talks about the role of hybrid systems, which has come
+up again in Chess and will likely be prevalent in other fields:
+
+> the character and capacities of computer work and human work depend on
+> the nature of human--computer interactions and their mutual enabling
+> and/or inhibiting in specific systems.
+
+She talks about a "cultural materialism" in science.
+
+> As will be discussed at length in the next section, one way that
+> intuition was imparted to the computer program was as a weighting
+> mechanism for privileging certain inference paths over others
+
+Here's how she thinks about AURA in particular
+
+> AURA was not merely a receptacle of prenegotiated social practices
+> but, rather, surprised and resisted its users, participating in the
+> negotiations that precipitated a change in mathematical thinking and
+> problem solving. I hope that historians of mathematics will continue
+> to investigate more instances of such negotiation.
+
+### Logseq and friends??
+
+Logseq is part of a history of tool evolution that includes Roam
+Research, which has been massively capitalized recently
+
+1.  Other relevant tools in the same space include **Org Roam** (FLOSS)
+
+2.  Logseq itself is also FLOSS
+
+The software is linked with a pseudo-ethical method:
+[Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten).
+
+I previously worked on a paper in this space: Massively 
+buted authorship of academic papers
+
+> Tomlinson, B., Ross, J., André, P., et al. 2012. Massively distributed authorship of academic papers. CHI'12 Extended Abstracts on Human Factors in Computing Systems, ACM, 11--20.
