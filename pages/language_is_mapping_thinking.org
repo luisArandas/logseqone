@@ -1,0 +1,17 @@
+#+TITLE: Language is mapping thinking
+
+** ** Language is mapping thinking
+
+- Re-know vs re-compute
+- Music (muses: searching in the fog)
+- Language which maps stuff
+- "sage" ([salvia officinalis](https://en.wikipedia.org/wiki/Salvia_officinalis)) and "sagacity" (related to smell)
+- As cultures, we mapped things with language, and even more so with technologies
+- "If you're destined to hang you won't drown."
+- This is related I think to the notion of open-ended discovery: See ML Street Talk on [Greatness Cannot be Planned](https://www.youtube.com/watch?v=lhYGXYeMq_E) — which brings things back to creativity, music, and stuff; vs optimisation.
+- Compare with current approaches to ML that focus on building a model, knowing that the model isn't what I'm trying to build. It's a representation. Cf. "Blue Brain" in Switzerland, modelling a human brain point-by-point.
+- What about (1) Conscious experience, simulation? Simulating fire doesn't produce fire, you'd need to produce an environment that builds the thing in the first place, not just modelling the thing.  Sometimes we're so inside the code that we forget the basic things.
+- Consider AlphaGo as "creative"?  OK, given the constraints of the algorithm — but it doesn't have any cognitive view on the environment at all. I can judge it externally and say it was creative, but that's something else.  The trick is to push our systems to a better place.
+- Saying "Arktos" summons bears? Using code allows images to appear on a screen. So, it can't just be a simulation. Maybe then language isn't just a simulation.
+- After Descartes... Joshua Bach, a neuron doesn't feel anything, only 'you' feel something. He is a computer scientist.
+- See also Thomas Nagel, "The View from Nowhere"
