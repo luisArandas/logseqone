@@ -3,6 +3,7 @@
 
 * [[file:introduction.org][Introduction]] — Ethics of HCCC
 ** [[file:./background.org][Background]] — /Bring people up to speed with what we need to think about “HCCC” the broad way we talk about it./
+** [[Motivation]]
 * Philosophy and Ethics — Intersected with Computer Science Practice
 ** [[file:survey_introduction.org][Survey introduction]]
 ** Western philosophy and ethics definition (as basic for the paper) [[file:../pages/1.0.org][1.0]]
