@@ -1,0 +1,9 @@
+#+TITLE: Evolution
+
+** ** - Maybe survey what is common to all of them? and how do this constraints; maybe add cultural differences and analogies;
+- Current research and breakthroughs on cognition and ethical selfawareness; metacognition and world philosophy; social learning of ethics
+- Evolution of western thought - connections between philosophy and cognitive science.
+- Simondon on technology
+- [Bernard Stiegler](https://en.wikipedia.org/wiki/Bernard_Stiegler#Books_in_English) --- philosophy of technics and other works
+- [Peter Sloterdijk](https://en.wikipedia.org/wiki/Peter_Sloterdijk#Works_in_English_translation) --- philosophy of the human environment
+- James Lovelock --- *Novacene: The coming age of hyperintelligence* --- This is good because of the evolutionary perspective, though his reasoning may be a bit off.
