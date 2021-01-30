@@ -6,4 +6,5 @@
 *** [[file:mathematical_creativity.org][Mathematical creativity]] throughout time
 *** Social machines
 *** [[file:logseq_and_friends.org][Logseq and friends]] — This could be a good one because it relates to the primary tool that we're using for writing this paper
+** Historical setting: computers have played a significant and increasing role since their introduction.  Whereas there are mature paradigms for interaction *using* computers (e.g., Wikipedia), the paradigms of interacting *with* computers (e.g., Cambridge Analytica) continue to raise problematic issues.  At the same time, there are many unsolved problems that humans together with computers are working to address (e.g., climate change)!
 ** [[Case studies reprise]]
