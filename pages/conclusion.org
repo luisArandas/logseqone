@@ -1,0 +1,3 @@
+#+TITLE: Conclusion
+
+** ** "There is also now a clear consensus that ethical AI is the only sustainable way forward. The time has come for the Government to move from deciding what the ethics are, to how to instil them in the development and deployment of AI systems."  — I'm not sure that's how ethics work -JC
