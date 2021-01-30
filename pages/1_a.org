@@ -1,6 +1,6 @@
 #+title: 1.A
 
-* [[Ethics and Ethology in Homer]]
+ [[Ethics and Ethology in Homer]]
 * Aristotelian vs Platonic
 * Kant and the categorical imperative
 * David Hume on the problem of induction
