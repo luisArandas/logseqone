@@ -1,3 +1,3 @@
 #+TITLE: Background: HCCC
 
-** ** Elsewhere, there are models that emphasise *social practices*, e.g., a practical approach to **peer production** is offered by [Benkler, Shaw, and Hill](https://mako.cc/benkler_shaw_hill-peer_production_ci.pdf), which is rounded out by related reflections on ethics in [Benkler and Nissenbaum](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-9760.2006.00235.x).
+** Elsewhere, there are models that emphasise *social practices*, e.g., a practical approach to **peer production** is offered by [Benkler, Shaw, and Hill](https://mako.cc/benkler_shaw_hill-peer_production_ci.pdf), which is rounded out by related reflections on ethics in [Benkler and Nissenbaum](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-9760.2006.00235.x).
