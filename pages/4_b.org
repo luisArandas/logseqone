@@ -6,3 +6,4 @@ to “Cog Sci and friends”.
 * This seems to relate to the topics discussed in [[file:how_ai_can_be_a_force_for_good.org][How AI can be a force for good]]
 In particular, the part about “distributed agency” seems like a
 cog-sci related topic.
+*
