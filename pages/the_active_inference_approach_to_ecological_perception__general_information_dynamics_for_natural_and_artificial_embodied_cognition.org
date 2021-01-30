@@ -1,0 +1,6 @@
+#+TITLE: The Active Inference Approach to Ecological Perception: General Information Dynamics for Natural and Artificial Embodied Cognition
+
+** https://www.frontiersin.org/articles/10.3389/frobt.2018.00021/full
+And other relevant writings about Active Inference and FEP.
+** Mark should be able to guide us on this.  I spotted an interesting philosophical paper called "The Math is Not the Territory" that we should have a look at.
+**
