@@ -7,7 +7,7 @@ evaluate the paper’s contributions, not to dazzle them with esoteric
 concepts!  Nevertheless some framing concepts can be helpful.
 #+end_quote
 
-* Philosophy:
+* *Philosophy*:
 - “Creative evolution” from Bergson
 - “Anthropotechnics” from Sloterdijk.
 - Proscurcin Jr., Der Begriff Ethos bei Homer. (2014) pp. 162–63 if someone can read German a bit
