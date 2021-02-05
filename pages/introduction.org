@@ -10,3 +10,4 @@
 :END:
 ** Our RQ: WHAT ARE SUITABLE ETHICS FOR HCI+HCCC DESIGNERS?
 * [[file:./approach.org][Approach]] — /We will survey philosophy and its applications in CS; then, we will describe possible next steps for research./
+* [[file:treatment.org][Treatment]] — Add the longer narrative introduction from HackMD (5 Feb 2021)
