@@ -8,7 +8,7 @@ concepts!  Nevertheless some framing concepts can be helpful.
 #+end_quote
 
 * *Philosophy*:
-- “Creative evolution” from Bergson
+** “Creative evolution” from Bergson
 - “Anthropotechnics” from Sloterdijk.
 - Proscurcin Jr., Der Begriff Ethos bei Homer. (2014) pp. 162–63 if someone can read German a bit
 * *Anthropology*:
