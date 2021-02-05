@@ -1,9 +1,6 @@
 #+title: Treatment
 
 * Introduction
-  :PROPERTIES:
-  :CUSTOM_ID: introduction
-  :END:
 
 This article proposes an ethics of "Human Computer Interaction". We
 bring together philosophical sources and existing references to /ethical
@@ -39,7 +36,7 @@ Fiction?)
 ==Further notes:
 [[https://logseq.com/page/how%20do%20we%20use%20ethics][How do we use
 ethics]], [[https://logseq.com/page/motivation][Motivation]]==
-* Method
+od
   :PROPERTIES:
   :CUSTOM_ID: method
   :END:
