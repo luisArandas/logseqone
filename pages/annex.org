@@ -1,3 +1,5 @@
 #+TITLE: Annex
 
-** 
+* TODO Expand philosophy background by ≈1 page                        :luis:
+* TODO Expand social intelligence section by ≈1 page                   :joe:
+* TODO Expand evolution section by ≈1 page                           :selin:
