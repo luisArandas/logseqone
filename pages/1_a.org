@@ -1,6 +1,32 @@
 #+title: 1.A
 
- [[Ethics and Ethology in Homer]]
+# This is a temporary comment until I write C-x C-s
+# or until it autosaves a backup.
+* Our definition
+Human beings have always been interested in categorizing their
+behaviour. Classification and criticism, personal and interpersonal,
+about actions taken towards the world. When this criticism is made,
+there is no way that it will not be realized subjectively (lens
+argument), even if it embraces generalization. This recursive feedback
+to outselves has allowed the analysis and assessment of actions that
+we deem meaningful - or that others consider significant in us -
+originating fundamental positions for human understanding from the
+human. It is not in vain that *ethics* derives from the Greek "ēthikós"
+(ἠθικός) that means "relating to one's character" - as a relational
+loop. Indeed, a deeper etymology points to both habit and environment;
+ἤθεα meaning “accustomed place” (as in ἤθεα ἵππων “the habitat of
+horses”, Iliad, 6.51115.265).  This points to an "ethological" side of
+"ethics", which is pursued, e.g., by Spinoza (as per Deleuze's
+reading). Importantly, our environments include *others* and provide
+grounds for interaction. Just as I consider myself, I can imagine the
+way others consider me, consider them, and develop collaborative
+processes for all this. Right here comes ethics and the way it will
+happen in society. Paul and Elder (2003) define *ethics* as: “a
+nondetermined set of concepts, principles and metarules that guide us
+in determining what behavior (acting towards) helps and/or harms
+sentient creatures.”  Taking this as our "working definition" allows
+us to develop ethics helps to create a relationship structure.
+** [[Ethics and Ethology in Homer]]
 * Aristotelian vs Platonic
 * Kant and the categorical imperative
 * David Hume on the problem of induction
