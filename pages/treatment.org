@@ -33,13 +33,10 @@ narrative or genre in which these questions can be discussed and pursued
 further? (E.g., Philosophy? Computing? Law? --- Religion? Science
 Fiction?)
 
-==Further notes:
-[[https://logseq.com/page/how%20do%20we%20use%20ethics][How do we use
-ethics]], [[https://logseq.com/page/motivation][Motivation]]==
-od
-  :PROPERTIES:
-  :CUSTOM_ID: method
-  :END:
+- [[file:how_do_we_use_ethics.org][How do we use ethics]]
+- [[file:motivation.org][Motivation]]
+
+* Method
 
 We survey references to computing and machinery within philosophy, and
 references to ethics and philosophy within computing literature and
@@ -53,13 +50,13 @@ robots); *2)* the change in behavior that comes from the 'benefit' to
 make people interconnected as a global mind; *3)* until what point
 social interaction can change and /exist/; *4)* reference and build on
 top of existing surveys (e.g. *Machine Implementations of Ethics* and
-*[[https://www.scholars.northwestern.edu/en/publications/peer-production-a-modality-of-collective-intelligence][Peer
-Production: A Modality of Collective Intelligence]]*).
+*[[https://www.scholars.northwestern.edu/en/publications/peer-production-a-modality-of-collective-intelligence][Peer Production: A Modality of Collective Intelligence]]*).
 
 We will build on the proposed terminology: /(1) Of ethical impact
 agents; (2) Implicit ethical agents; (3) Explicit ethical agents; (4)
 Fully ethical agents; (5) How are ethics really used in systems - that
 in itself./
+
 * Scope
   :PROPERTIES:
   :CUSTOM_ID: scope
@@ -162,6 +159,7 @@ context - the reflections made today often map the past. The way we
 relate - to each other, to artificial elements and the environment - is
 what has been driving us, we might want not only to map but also revisit
 past.
+
 * 2.0 Embodied cognition, social intelligence, collective intelligence
   :PROPERTIES:
   :CUSTOM_ID: embodied-cognition-social-intelligence-collective-intelligence
@@ -203,6 +201,7 @@ e.g. Donna Haraway, and current work on computers and interaction
 (mention Anna's paper here). How really, AI is truly social and exists
 as a potential force for "good" (if that is understood as /pro-social/
 and /evolutionary/).
+
 * 3.0 Reprise: Evolution regarding all of these
   :PROPERTIES:
   :CUSTOM_ID: reprise-evolution-regarding-all-of-these
@@ -219,10 +218,8 @@ our ethics project will not be ruined in future decades - getting to the
 point where evolution might be quicker virtually (as a /type/ of
 evolution).
 
-==Further notes:
-[[https://logseq.com/page/language%20is%20mapping%20thinking][Language
-is mapping thinking]],
-[[https://logseq.com/page/evolution][Evolution]]==
+- [[file:language_is_mapping_thinking.org][Language is mapping thinking]]
+- [[file:evolution.org][Evolution]]
 
 ** Responses in the computing literature
    :PROPERTIES:
@@ -241,6 +238,7 @@ Active Inference (bring embodiment to the discussion here); if "Ethical
 AI" is important or a more globalist perspective: Notice that now that
 computers are involved, the way we think about ethics and so on is
 likely to change.
+
 * Ethics Taxonomy
   :PROPERTIES:
   :CUSTOM_ID: ethics-taxonomy
@@ -261,6 +259,7 @@ and topic-agnostic, and how machine ethics is right or wrong as a
 separare domain, how to imply ethics works and doesn't work; propose
 meta-ethics guidelines on how can we create ethical guidelines that
 create ethics.
+
 * Discussion
   :PROPERTIES:
   :CUSTOM_ID: discussion
@@ -292,13 +291,11 @@ is thought about in Elinor Ostrom's economics. A particular concern of
 Taddeo & Floridi here seems to be "autonomy" of AI, and
 "self-determination" of humans. But in the case of HCI/HCCC it's not
 totally clear that either of these criteria apply. In HCCC it's much
-closer to
-[[https://www.wired.com/beyond-the-beyond/2015/09/peter-sloterdijk-anthropotechnics/][anthropotechnics]].
+closer to [[https://www.wired.com/beyond-the-beyond/2015/09/peter-sloterdijk-anthropotechnics/][anthropotechnics]].
+
 Hopefully we can provide some new insights here.
 
-==Further notes:
-[[https://logseq.com/page/case%20studies%20reprise][Case studies
-reprise]]==
+- [[file:case_studies_reprise.org][Case studies reprise]]
 
 ** Related work
    :PROPERTIES:
@@ -335,4 +332,4 @@ imagining the future). By focusing on interaction we mean to develop a
 route to ongoing improvementment to HCI ethics overall (in an eternal
 golden braid!).
 
-==Further notes: [[https://logseq.com/page/conclusion][Conclusion]]==
+- [[file:conclusion.org][Conclusion]]
