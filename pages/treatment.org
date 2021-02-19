@@ -123,9 +123,6 @@ allows us to develop ethics helps to create a relationship structure.
 **** [[https://logseq.com/page/ethics%20and%20ethology%20in%20homer][Ethics and Ethology in Homer]]
 
 *** 1.1.1 Responses in computing literature
-    :PROPERTIES:
-    :CUSTOM_ID: responses-in-computing-literature
-    :END:
 
 These days, given the transmutation of information and increased
 reception of things around us, technology can even help us to revive and
@@ -133,7 +130,6 @@ rethink the way these thoughts affect us culturally. For example the
 work of Kantosalo and Schneiderman: using computers to help us "think"
 about creativity. (Anna Kantosalo and Ben Schneiderman (using computers
 to think about ‘creativity’))
-
 ** 1.2 Holistic views of philosophy
    :PROPERTIES:
    :CUSTOM_ID: holistic-views-of-philosophy
