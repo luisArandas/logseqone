@@ -188,9 +188,6 @@ view on ‘mind’ that exist (functionalists, patternists, etc.).  We can
 use this material as starting point to articulate our relationship
 with the taxonomy of ethical perspectives.
 ** Responses in the computing literature
-   :PROPERTIES:
-   :CUSTOM_ID: responses-in-the-computing-literature-1
-   :END:
 
 In contemporary computing:
 1. the activities which are referred as /creative/ are typically seen as social and socially computational (mention Anna's paper here)
@@ -202,7 +199,6 @@ In contemporary computing:
 AI and interaction with computers more generally is understood as a
 potential force for "good" — if that is understood as /pro-social/ and
 /evolutionary/ — and also as a source of risks.
-
 * TODO 3.0 Reprise: Evolution regarding all of these
   :PROPERTIES:
   :CUSTOM_ID: reprise-evolution-regarding-all-of-these
