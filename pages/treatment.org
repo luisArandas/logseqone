@@ -162,9 +162,6 @@ what has been driving us, we might want not only to map but also revisit
 past.
 
 * TODO 2.0 Embodied cognition, social intelligence, collective intelligence
-  :PROPERTIES:
-  :CUSTOM_ID: embodied-cognition-social-intelligence-collective-intelligence
-  :END:
 
 #+begin_quote
 *How do the systems we engage with ‘react back’ on our ways of thinking?*
@@ -194,7 +191,6 @@ of minds for the future; how these interact; and the various points of
 view on ‘mind’ that exist (functionalists, patternists, etc.).  We can
 use this material as starting point to articulate our relationship
 with the taxonomy of ethical perspectives.
-
 ** Responses in the computing literature
    :PROPERTIES:
    :CUSTOM_ID: responses-in-the-computing-literature-1
