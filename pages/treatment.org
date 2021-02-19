@@ -151,16 +151,12 @@ computers as /creatures/.
 
 **** [[https://logseq.com/page/holistic%20views%20of%20philosophy][Holistic views of philosophy]]
 *** 1.2.1 Responses in the computing literature
-    :PROPERTIES:
-    :CUSTOM_ID: responses-in-the-computing-literature
-    :END:
 
 Given the holistic point of view, which in itself is linked to space and
 context - the reflections made today often map the past. The way we
 relate - to each other, to artificial elements and the environment - is
 what has been driving us, we might want not only to map but also revisit
 past.
-
 * TODO 2.0 Embodied cognition, social intelligence, collective intelligence
 
 #+begin_quote
