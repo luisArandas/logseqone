@@ -81,9 +81,6 @@ computers as ‘effective systems’ or even just as tools or machinery.
 Tools and language have been with us since the dawn of humankind.
 
 * TODO 1.0 Philosophical foundation for a contemporary ethical practice
-  :PROPERTIES:
-  :CUSTOM_ID: philosophical-foundation-for-a-contemporary-ethical-practice
-  :END:
 
 #+begin_quote
 *How are notions of ‘ethics’ used and applied to contemporary information systems?*
@@ -92,7 +89,6 @@ Tools and language have been with us since the dawn of humankind.
 #+end_quote
 
 To address this question properly we need to understand the key concepts.
-
 ** 1.1 Western philosophy and ethics definition
    :PROPERTIES:
    :CUSTOM_ID: western-philosophy-and-ethics-definition
