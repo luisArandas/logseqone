@@ -26,7 +26,7 @@
 # #+LATEX_HEADER: \subsubsectionfont{\normalfont\selectfont}
 #+LATEX_HEADER: \paragraphfont{\normalfont\selectfont}
 #+LATEX_HEADER: \subsubsectionfont{\normalfont\selectfont\color{black!50}}H
-** 
+*** 
 #+BEGIN_LATEX
 \begin{abstract}
 \noindent
@@ -45,10 +45,14 @@ develop a set of salient ethical guidelines for researchers and
 practitioners in computing fields.
 \end{abstract}
 #+END_LATEX
-** \setcounter{tocdepth}{1}
+*** \setcounter{tocdepth}{1}
 \tableofcontents
 # IMPORT
 * Introduction
+:PROPERTIES:
+  :tag: HL
+  :END:
+
 ** The Introduction will have to do some heavy lifting to explain that we're talking about "creativity" in a way that's not entirely familiar. I want to re-imagine "Human Computer Interaction" as a co-evolutionary process that has been developing over long time spans. There's nothing too shocking about that, but it can be hard to express in words. To make the paper accessible to reviewers we need to be careful how we present our concepts of "creativity" and "ethics". The basic motivation is that ethics is pretty hard for humans to get right (e.g., consider climate change, genocides, etc.), so we need to think about computational ethics not just in terms of trolley problems, but in a broader context. Similarly, we want to look at “creativity” not just in terms of an auteur — or even necessarily a single agent!
 ** [[*Premises][Premises]] — /‘Human-computer interaction’ is a bigger deal than we might think at first glance!.../
 ** [[*Scope][Scope]]— TOCHI — /covers humans interacting with computers/
@@ -83,6 +87,7 @@ analytical insights. — https://mako.cc/benkler_shaw_hill-peer_production_ci.pd
 
 ** [[*Introduction][Introduction]] — Ethics of HCCC
 *** [[*Background][Background]] — /Bring people up to speed with what we need to think about “HCCC” the broad way we talk about it./
+*** [[Motivation]]
 ** Philosophy and Ethics — Intersected with Computer Science Practice
 *** [[*Survey introduction][Survey introduction]]
 *** Western philosophy and ethics definition (as basic for the paper) [[*1.0][1.0]]
@@ -92,6 +97,8 @@ analytical insights. — https://mako.cc/benkler_shaw_hill-peer_production_ci.pd
 *** Reprise: Evolution regarding all of these [[*5.0][5.0]]
 ** [[*Case studies][Case studies]] — if wanted
 ** [[*Discussion][Discussion]] How can we build on the survey above to plan new directions of work?
+** [[Conclusion]]
+** [[Annex]] — Other details
 * Background
 :PROPERTIES:
   :tag: HL
@@ -115,6 +122,7 @@ concepts!  Nevertheless some framing concepts can be helpful.
 ** Philosophy:
 - “Creative evolution” from Bergson
 - “Anthropotechnics” from Sloterdijk.
+- Proscurcin Jr., Der Begriff Ethos bei Homer. (2014) pp. 162–63 if someone can read German a bit
 ** Anthropology:
 - “Chaîne opératoire” from André Leroi-Gourhan et al.
 - Histories of the evolution of intelligence (sociality & tools being key focal points)
@@ -152,6 +160,7 @@ https://plato.stanford.edu/entries/bergson/#CreaEvol
   :tag: HL
   :END:
 
+*** [[How do we use ethics]]
 *** Assuming we have the core concepts established, the survey section should be easy to write.
 Basic plan: I imagine a call ("A") and response ("B") setup. The (A)
 theme is to look at what people have said in various "philosophical"
@@ -181,13 +190,46 @@ This subsection should correspond to the conclusion of this section and connect 
 *** How do people talk about mainstream ethics in CS? [[*1.B][1.B]]
 ** 1.A
 
+# This is a temporary comment until I write C-x C-s
+# or until it autosaves a backup.
+*** Our definition
+Human beings have always been interested in categorizing their
+behaviour. Classification and criticism, personal and interpersonal,
+about actions taken towards the world. When this criticism is made,
+there is no way that it will not be realized subjectively (lens
+argument), even if it embraces generalization. This recursive feedback
+to outselves has allowed the analysis and assessment of actions that
+we deem meaningful - or that others consider significant in us -
+originating fundamental positions for human understanding from the
+human. It is not in vain that *ethics* derives from the Greek "ēthikós"
+(ἠθικός) that means "relating to one's character" - as a relational
+loop. Indeed, a deeper etymology points to both habit and environment;
+ἤθεα meaning “accustomed place” (as in ἤθεα ἵππων “the habitat of
+horses”, Iliad, 6.51115.265).  This points to an "ethological" side of
+"ethics", which is pursued, e.g., by Spinoza (as per Deleuze's
+reading). Importantly, our environments include *others* and provide
+grounds for interaction. Just as I consider myself, I can imagine the
+way others consider me, consider them, and develop collaborative
+processes for all this. Right here comes ethics and the way it will
+happen in society. Paul and Elder (2003) define *ethics* as: “a
+nondetermined set of concepts, principles and metarules that guide us
+in determining what behavior (acting towards) helps and/or harms
+sentient creatures.”  Taking this as our "working definition" allows
+us to develop ethics helps to create a relationship structure.
+**** [[Ethics and Ethology in Homer]]
 *** Aristotelian vs Platonic
 *** Kant and the categorical imperative
 *** David Hume on the problem of induction
 *** Maybe talk about the authors that break down cognitivism and agree or not - dualists, functionalists, materialists etc
 *** All of this connects to philosophy of mind. Maybe necessary?
 *** go deep maybe into pre-aristotle
-
+*** Further notes here:
+-  *(1785) Kant (Johnson and Cureton 2004) proposed that the fundamental principle of our moral duties is a categorical imperative.*
+- (2018) (Noa Naaman-Zauderer) both Descartes and Spinoza thinkers define virtue in terms of activity or freedom, mutatis mutandis, and thus in terms of actual power of acting. Second, I will claim that both Descartes and Spinoza hold a non-consequentialist approach to virtue, by which human actions are evaluated as virtuous or good on the basis of their motivational forces rather than their consequences.*
+- (2004) (stanford encyclopedia) More specifically then, Bergson’s project in Creative Evolution is to offer a philosophy capable of accounting both for the continuity of all living beings—as creatures—and for the discontinuity implied in the evolutionary quality of this creation.*
+- (2004) (stanford encyclopedia) Hans Vaihinger - Die Philosophie des Als Ob : Vaihinger comes to view Kant’s doctrine of the essential limits of our cognition through this Schopenhauerian-Darwinian lens: the “limitations of human knowledge,” he says, are “a necessary and natural result of the fact that thought and knowledge are originally only a means, to attain the Life-purpose, so that their actual independence signifies a breaking-away from their original purpose; indeed, by the fact of this breaking-loose, thought is confronted by impossible problems” (PAO xviii). Vaihinger will use this idea to motivate his own fictionalism, and to provide a radical reinterpretation of Kantianism.*
+- [https://plato.stanford.edu/entries/ethics-ancient/ ](/xZCXvatGRw2CA5FwoBjYIQ)
+*** [[Holistic views of philosophy]]
 ** 1.B
 
 Need to establish keywords from 1.A to search the literature with!
@@ -210,6 +252,8 @@ this — antiwestern in a way.
 
 *** Phenomenology and related philosophies [[*3.A][3.A]]
 *** CS/ethics related to phenomenology [[*3.B][3.B]]
+*** This is an extra sentence
+And this is a sentence with a footnote.
 ** 3.A
 
 *** husserl and heidegger all the way - what is it to be alive. 
@@ -241,6 +285,7 @@ to “Cog Sci and friends”.
 *** This seems to relate to the topics discussed in [[*How AI can be a force for good][How AI can be a force for good]]
 In particular, the part about “distributed agency” seems like a
 cog-sci related topic.
+*** [[The Active Inference Approach to Ecological Perception: General Information Dynamics for Natural and Artificial Embodied Cognition]]
 ** 5.0
 
 Talking about human, cognitive, cultural evolution regarding all of these positions.
@@ -250,6 +295,8 @@ Talking about human, cognitive, cultural evolution regarding all of these positi
 *** Evolution of western thought - connections between philosophy and cognitive science.
 Set up a launching pad for thinking about next steps beyond the survey.
 *** Notice that now that computers are involved, the way we think about ethics and so on is likely to change.
+*** [[Language is mapping thinking]]
+*** [[Evolution]]
 * Case studies
 :PROPERTIES:
   :tag: HL
@@ -260,6 +307,8 @@ Set up a launching pad for thinking about next steps beyond the survey.
 **** [[*Mathematical creativity][Mathematical creativity]] throughout time
 **** Social machines
 **** [[*Logseq and friends][Logseq and friends]] — This could be a good one because it relates to the primary tool that we're using for writing this paper
+*** Historical setting: computers have played a significant and increasing role since their introduction.  Whereas there are mature paradigms for interaction *using* computers (e.g., Wikipedia), the paradigms of interacting *with* computers (e.g., Cambridge Analytica) continue to raise problematic issues.  At the same time, there are many unsolved problems that humans together with computers are working to address (e.g., climate change)!
+*** [[Case studies reprise]]
 ** Logseq and friends
 
 **** Logseq is part of a history of tool evolution that includes Roam Research, which has been massively capitalized recently
