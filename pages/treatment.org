@@ -256,11 +256,10 @@ likely to change.
 *We reference and on existing surveys, including “Machine Implementations of Ethics” and “Peer Production: A Modality of Collective Intelligence”.*
 #+end_quote
 
-E.g., are these considretainos in fact proper to Philosophy, after
+E.g., are these considerations in fact proper to Philosophy, after
 all?  Or are these themes that can be addressed within Computing?  Or
 should we refer to Law?  Or Religion?  Or Science Fiction?  Or Art?
 Or something else?
-
 ** Responses in the computing literature
 
 We see how mediatic engagement with ethics is scaffolded by directing
