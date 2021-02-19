@@ -258,7 +258,7 @@ likely to change.
 
 E.g., are these considerations in fact proper to Philosophy, after
 all?  Or are these themes that can be addressed within Computing?  Or
-should we refer to Law?  Or Religion?  Or Science Fiction?  Or Art? Choreography?
+should we refer to Law?  Or Religion?  Or Science Fiction?  Or Art?  Choreography?
 Or something else?
 ** Responses in the computing literature
 
