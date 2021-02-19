@@ -200,9 +200,6 @@ AI and interaction with computers more generally is understood as a
 potential force for "good" — if that is understood as /pro-social/ and
 /evolutionary/ — and also as a source of risks.
 * TODO 3.0 Reprise: Evolution regarding all of these
-  :PROPERTIES:
-  :CUSTOM_ID: reprise-evolution-regarding-all-of-these
-  :END:
 #+begin_quote
 *How do computational systems apply or enact the ethics that we apply, or indeed develop ethics of their own?*
 
@@ -227,7 +224,6 @@ AIs will encompass some of the evolutionary paradigms we faced and how
 our ethics project will not be ruined in future decades - getting to the
 point where evolution might be quicker virtually (as a /type/ of
 evolution).
-
 **** [[file:language_is_mapping_thinking.org][Language is mapping thinking]]
 **** [[file:evolution.org][Evolution]]
 
