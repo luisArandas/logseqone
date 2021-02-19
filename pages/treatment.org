@@ -60,12 +60,10 @@ At the outset, our initial framework-for-the-framework recapitulates
 the division mentioned in the Introduction, which mirrors the major
 sections of the article. We consider:
 
-*1.* The interfaces in which ethics can be applied (species and robots).
-*2.* The change in behavior that comes from the 'benefit' to make people interconnected as a global mind.
-*3.* Until what point social interaction can change and exist?
+1. The interfaces in which ethics can be applied (species and robots).
+2. The change in behavior that comes from the 'benefit' to make people interconnected as a global mind.
+3. Until what point social interaction can change and exist?
 4. We reference and on existing surveys, including “Machine Implementations of Ethics” and “[[https://www.scholars.northwestern.edu/en/publications/peer-production-a-modality-of-collective-intelligence][Peer Production: A Modality of Collective Intelligence]]”.
-
-We interact with this scaffolding by directing attention to: /(1) Ethical impact agents; (2) Implicit ethical agents; (3) Explicit ethical agents; (4) Fully ethical agents; (5) How are ethics really used in systems - that in itself./
 
 ** Scope
   :PROPERTIES:
@@ -283,6 +281,13 @@ all?  Or are these themes that can be addressed within Computing?  Or
 should we refer to Law?  Or Religion?  Or Science Fiction?  Or Art?
 Or something else?
 
+** Responses in the computing literature
+
+We see how mediatic engagement with ethics is scaffolded by directing
+attention to: (1) Ethical impact agents; (2) Implicit ethical agents;
+(3) Explicit ethical agents; (4) Fully ethical agents; (5) How are
+ethics really used in systems - that in itself.
+
 * Ethics Taxonomy
   :PROPERTIES:
   :CUSTOM_ID: ethics-taxonomy
@@ -353,8 +358,8 @@ worth wanting", "Made by Humans", "Machines that Think", "How AI can be
 a force for good" --- and connect all these topics with political,
 scientific and visionary points that authors made in time.
 
-**** https://sigchi.org/ethics-committee/
 **** [[file:philosophy_of_technology.org][Philosophy of technology]]
+**** https://sigchi.org/ethics-committee/
 * Conclusions and Future work
   :PROPERTIES:
   :CUSTOM_ID: conclusions-and-future-work
