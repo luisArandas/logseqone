@@ -6,8 +6,7 @@ This article proposes an ethics of “Human Computer Interaction”.  We
 bring together philosophical sources and references to ethical
 thinking within HCI.  In the process, we contextualise ongoing
 discipline-specific work such as the efforts of the [[https://sigchi.org/ethics-committee/][ACM SIGCHI
-Research Ethics Committee]] — and broaden the scope of that work to
-reflect on human interaction with computers /tout court/.
+Research Ethics Committee]] — and broaden the scope of that work to reflect on human interaction with computers /tout court/.
 
 Our project stems from a documented need to further develop the
 existing understanding of the pro-social use of computational
@@ -40,7 +39,6 @@ The paper as a whole focuses on the following questions:
 2. How do the systems we engage with ‘react back’ on our ways of thinking?
 3. How do computational systems apply or enact the ethics that we apply, or indeed develop ethics of their own?
 4. And, lastly: what is the overall narrative or genre in which these questions can be discussed and pursued further?
-
 **** [[file:how_do_we_use_ethics.org][How do we use ethics]]
 **** [[file:motivation.org][Motivation]]
 
@@ -60,10 +58,12 @@ At the outset, our initial framework-for-the-framework recapitulates
 the division mentioned in the Introduction, which mirrors the major
 sections of the article. We consider:
 
-1. The interfaces in which ethics can be applied (species and robots).
-2. The change in behavior that comes from the 'benefit' to make people interconnected as a global mind.
-3. Until what point social interaction can change and exist?
+*1.* The interfaces in which ethics can be applied (species and robots).
+*2.* The change in behavior that comes from the 'benefit' to make people interconnected as a global mind.
+*3.* Until what point social interaction can change and exist?
 4. We reference and on existing surveys, including “Machine Implementations of Ethics” and “[[https://www.scholars.northwestern.edu/en/publications/peer-production-a-modality-of-collective-intelligence][Peer Production: A Modality of Collective Intelligence]]”.
+
+We interact with this scaffolding by directing attention to: /(1) Ethical impact agents; (2) Implicit ethical agents; (3) Explicit ethical agents; (4) Fully ethical agents; (5) How are ethics really used in systems - that in itself./
 
 ** Scope
   :PROPERTIES:
@@ -81,6 +81,9 @@ computers as ‘effective systems’ or even just as tools or machinery.
 Tools and language have been with us since the dawn of humankind.
 
 * TODO 1.0 Philosophical foundation for a contemporary ethical practice
+  :PROPERTIES:
+  :CUSTOM_ID: philosophical-foundation-for-a-contemporary-ethical-practice
+  :END:
 
 #+begin_quote
 *How are notions of ‘ethics’ used and applied to contemporary information systems?*
@@ -89,6 +92,7 @@ Tools and language have been with us since the dawn of humankind.
 #+end_quote
 
 To address this question properly we need to understand the key concepts.
+
 ** 1.1 Western philosophy and ethics definition
    :PROPERTIES:
    :CUSTOM_ID: western-philosophy-and-ethics-definition
@@ -123,6 +127,9 @@ allows us to develop ethics helps to create a relationship structure.
 **** [[https://logseq.com/page/ethics%20and%20ethology%20in%20homer][Ethics and Ethology in Homer]]
 
 *** 1.1.1 Responses in computing literature
+    :PROPERTIES:
+    :CUSTOM_ID: responses-in-computing-literature
+    :END:
 
 These days, given the transmutation of information and increased
 reception of things around us, technology can even help us to revive and
@@ -130,6 +137,7 @@ rethink the way these thoughts affect us culturally. For example the
 work of Kantosalo and Schneiderman: using computers to help us "think"
 about creativity. (Anna Kantosalo and Ben Schneiderman (using computers
 to think about ‘creativity’))
+
 ** 1.2 Holistic views of philosophy
    :PROPERTIES:
    :CUSTOM_ID: holistic-views-of-philosophy
@@ -151,13 +159,20 @@ computers as /creatures/.
 
 **** [[https://logseq.com/page/holistic%20views%20of%20philosophy][Holistic views of philosophy]]
 *** 1.2.1 Responses in the computing literature
+    :PROPERTIES:
+    :CUSTOM_ID: responses-in-the-computing-literature
+    :END:
 
 Given the holistic point of view, which in itself is linked to space and
 context - the reflections made today often map the past. The way we
 relate - to each other, to artificial elements and the environment - is
 what has been driving us, we might want not only to map but also revisit
 past.
+
 * TODO 2.0 Embodied cognition, social intelligence, collective intelligence
+  :PROPERTIES:
+  :CUSTOM_ID: embodied-cognition-social-intelligence-collective-intelligence
+  :END:
 
 #+begin_quote
 *How do the systems we engage with ‘react back’ on our ways of thinking?*
@@ -187,7 +202,11 @@ of minds for the future; how these interact; and the various points of
 view on ‘mind’ that exist (functionalists, patternists, etc.).  We can
 use this material as starting point to articulate our relationship
 with the taxonomy of ethical perspectives.
+
 ** Responses in the computing literature
+   :PROPERTIES:
+   :CUSTOM_ID: responses-in-the-computing-literature-1
+   :END:
 
 In contemporary computing:
 1. the activities which are referred as /creative/ are typically seen as social and socially computational (mention Anna's paper here)
@@ -199,7 +218,11 @@ In contemporary computing:
 AI and interaction with computers more generally is understood as a
 potential force for "good" — if that is understood as /pro-social/ and
 /evolutionary/ — and also as a source of risks.
+
 * TODO 3.0 Reprise: Evolution regarding all of these
+  :PROPERTIES:
+  :CUSTOM_ID: reprise-evolution-regarding-all-of-these
+  :END:
 #+begin_quote
 *How do computational systems apply or enact the ethics that we apply, or indeed develop ethics of their own?*
 
@@ -224,6 +247,7 @@ AIs will encompass some of the evolutionary paradigms we faced and how
 our ethics project will not be ruined in future decades - getting to the
 point where evolution might be quicker virtually (as a /type/ of
 evolution).
+
 **** [[file:language_is_mapping_thinking.org][Language is mapping thinking]]
 **** [[file:evolution.org][Evolution]]
 
@@ -252,16 +276,10 @@ likely to change.
 *We reference and on existing surveys, including “Machine Implementations of Ethics” and “Peer Production: A Modality of Collective Intelligence”.*
 #+end_quote
 
-E.g., are these considerations in fact proper to Philosophy, after
+E.g., are these considretainos in fact proper to Philosophy, after
 all?  Or are these themes that can be addressed within Computing?  Or
-should we refer to Law?  Or Religion?  Or Science Fiction?  Or Art?  Choreography?
+should we refer to Law?  Or Religion?  Or Science Fiction?  Or Art?
 Or something else?
-** Responses in the computing literature
-
-We see how mediatic engagement with ethics is scaffolded by directing
-attention to: (1) Ethical impact agents; (2) Implicit ethical agents;
-(3) Explicit ethical agents; (4) Fully ethical agents; (5) How are
-ethics really used in systems - that in itself.
 
 * Ethics Taxonomy
   :PROPERTIES:
@@ -333,8 +351,8 @@ worth wanting", "Made by Humans", "Machines that Think", "How AI can be
 a force for good" --- and connect all these topics with political,
 scientific and visionary points that authors made in time.
 
-**** [[file:philosophy_of_technology.org][Philosophy of technology]]
 **** https://sigchi.org/ethics-committee/
+**** [[file:philosophy_of_technology.org][Philosophy of technology]]
 * Conclusions and Future work
   :PROPERTIES:
   :CUSTOM_ID: conclusions-and-future-work
